@@ -1,0 +1,22 @@
+[project]
+name = "ML_SYS_DESIGN_PROJECT"
+version = "0.1.0"
+description = "Описание проекта"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.black]
+line-length = 88
+target-version = ["py312"]
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]  # E - pycodestyle, F - pyflakes, I - import sort
+ignore = ["E501"]          # Игнорируем длинные строки (или можно убрать)
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
