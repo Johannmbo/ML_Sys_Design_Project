@@ -347,5 +347,5 @@ LLM не может “догадаться”, если каталоги неп
 #### Тип задачи: pipeline извлечение → нормализация → генерация документа
 
 ## 6. Блок-схема
-- [Схема архитектуры решения](https://github.com/Johannmbo/ML_Sys_Design_Project/blob/hw_1/Schema_MLSD.png)
+- [Схема архитектуры решения](https://github.com/Johannmbo/ML_Sys_Design_Project/blob/hw_1/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%8D%D1%82%D0%B0%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png)
 
