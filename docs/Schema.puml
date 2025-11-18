@@ -1,44 +1,54 @@
-@startuml name
-title AI Commercial Offer Generator - Architecture
+@startuml
+skinparam rectangle {
+  BackgroundColor White
+  BorderColor Black
+  RoundCorner 10
+}
+skinparam ArrowColor #1d7f5f
+skinparam ArrowThickness 2
 
-' actors
-actor Client as C
-actor Manager as M
+title Этапность решения: Умный генератор коммерческих предложений
 
-' API Gateway
-rectangle "API Gateway" as API
+rectangle "Этап 0\nПодготовка данных\nOCR, очистка, нормализация" as E0 #DCE6F2
 
-' Orchestrator / LLM-Agent
-rectangle "LLM-Agent\n(Orchestrator)" as AG
+rectangle "Этап 1 Baseline\nИзвлечение параметров\n(NER / Regexp / LLM Zero-shot)" as E1B #FDE9D9
+rectangle "Этап 1 MVP\nУлучшенное извлечение\n(NER + LLM Few-shot)" as E1M #E2F0D9
 
-' Workers
-rectangle "Parser Worker\n(PDF / text / OCR / NLP extraction)" as PW
-rectangle "Offer Worker\n(Generate proposal via LLM/VLLM)" as OW
-rectangle "Validation Worker\n(Apply business rules)" as VW
+rectangle "Этап 2\nСопоставление с каталогом\nEmbeddings, RAG, правила" as E2 #D9E1F2
 
-' Storage
-database "PostgreSQL\n(Metadata, tasks, versions)" as DB
-folder "File Storage\n(S3 / MinIO)" as FS
+rectangle "Этап 3\nГенерация КП\nLLM + шаблоны" as E3 #D9E1F2
 
-' Flux / interactions
-C -> API : POST /submit (PDF / email / text)
+rectangle "Этап 4 Baseline\nПроверка менеджером\nПравки и логирование" as E4B #FDE9D9
+rectangle "Этап 4 MVP\nИнтеграция бизнес-правил" as E4M #E2F0D9
 
-API -> AG : InputJSON (validate, auth)
-AG -> AG : classify content\n(determine parser / offer / validation)
+rectangle "Этап 5\nФормирование финального КП\nPDF / DOCX" as E5 #D9E1F2
 
-' orchestration -> workers (pub/sub conceptual)
-AG --> PW : create parser task
-PW --> VW : create validation worker
-VW --> OW : create offer worker
+rectangle "Этап 6\nСбор метрик\nАнализ ошибок" as E6 #DCE6F2
 
-' workers processing
-OW --> FS : save generated document (PDF/DOCX)
-OW --> DB : save proposal metadata
+rectangle "Этап 7\nЗакрытие техдолга\nРефакторинг" as E7 #E2F0D9
 
-DB --> API : provide result JSON
-FS --> API : provide document link
-API <--> C : forward JSON result to the client
+rectangle "Этап 8\nПодготовка пилота\nИнтеграция в процесс" as E8 #E2F0D9
 
-' Dashboard
-M <--> API : view dashboard / download document
+' DIFFERENT RELATIONS ---
+E0 --> E1B
+E0 --> E1M
+
+E1B --> E2
+E1M --> E2
+
+E2 --> E3
+
+E3 --> E4B
+E3 --> E4M
+
+E4B --> E5
+E4M --> E5
+
+E5 --> E6
+E6 --> E7
+E7 --> E8
+
+E2 ..> E0 : Показ бизнес-заказчику
+E4M ..> E2 : Коррекция правил\n(точка отчетности)
+E6 ..> E3 : Улучшения\nпо итогам метрик
 
