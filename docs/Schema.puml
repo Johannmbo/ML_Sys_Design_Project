@@ -1,9 +1,10 @@
-@startuml
+@startuml name Schema 
 skinparam rectangle {
   BackgroundColor White
   BorderColor Black
   RoundCorner 10
 }
+
 skinparam ArrowColor #1d7f5f
 skinparam ArrowThickness 2
 
@@ -14,7 +15,7 @@ rectangle "Этап 0\nПодготовка данных\nOCR, очистка, �
 rectangle "Этап 1 Baseline\nИзвлечение параметров\n(NER / Regexp / LLM Zero-shot)" as E1B #FDE9D9
 rectangle "Этап 1 MVP\nУлучшенное извлечение\n(NER + LLM Few-shot)" as E1M #E2F0D9
 
-rectangle "Этап 2\nСопоставление с каталогом\nEmbeddings, RAG, правила" as E2 #D9E1F2
+rectangle "Этап 2\nСопоставление с каталогом\n и Бизнес-правилами" as E2 #D9E1F2
 
 rectangle "Этап 3\nГенерация КП\nLLM + шаблоны" as E3 #D9E1F2
 
@@ -29,7 +30,7 @@ rectangle "Этап 7\nЗакрытие техдолга\nРефакторинг
 
 rectangle "Этап 8\nПодготовка пилота\nИнтеграция в процесс" as E8 #E2F0D9
 
-' DIFFERENT RELATIONS ---
+'---- DIFFERENT RELATIONS ---'
 E0 --> E1B
 E0 --> E1M
 
