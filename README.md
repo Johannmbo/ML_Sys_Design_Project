@@ -69,17 +69,20 @@
   
 * 6. Форматы данных
 * * InputJSON: 
-    ```json {
-    "UsingLLM": "GPT-5",
-    "ClientRequest": "Письмо клиента или текст из PDF",
-    "Attachments": ["offer_request.pdf"],
-    "BusinessRules": "Шаблон КП, минимальная маржа 10%, согласованные бренды",
-    "InternalCatalog": "База артикулов и цен",
-    "Language": "ru"
-    }```
+    ```json 
+    {
+        "UsingLLM": "GPT-5",
+        "ClientRequest": "Письмо клиента или текст из PDF",
+        "Attachments": ["offer_request.pdf"],
+        "BusinessRules": "Шаблон КП, минимальная маржа 10%, согласованные бренды",
+        "InternalCatalog": "База артикулов и цен",
+        "Language": "ru"
+    } 
+    ```
 
 * OutputJSON:
-    ``` json {
+``` json 
+{
     "Worker": "OfferWorker",
     "SubmissionId": 123,
     "Corrections": [
@@ -107,7 +110,8 @@
         "Validity": "30 days"
         }
     }
-    } ```
+} 
+```
 
 ### 6. Юзкейсы
 #### UC1 — Отправка запроса клиентом
