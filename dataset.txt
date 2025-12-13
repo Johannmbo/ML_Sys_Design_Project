@@ -1,0 +1,101 @@
+request_id,date,sector,client_request,commercial_proposal,budget_est,status
+R-1001,2023-09-01,Web Dev,"I need a WordPress landing page for my flower shop.","Turnkey WP site + hosting setup + 1h training.",$800,Accepted
+R-1002,2023-09-02,Design,"Need a minimalist logo for a tech startup called 'Nexus'.","3 logo concepts, vector files, and favicon included.",$450,Pending
+R-1003,2023-09-02,Translation,"Translate a 5-page legal contract from English to German.","Certified translation by a native jurist. 48h turnaround.",$0.15/word,Accepted
+R-1004,2023-09-03,Content,"Write 4 SEO-optimized articles about 'Solar Energy' (1000 words).","Content Pack: Keyword research + 4 articles + meta descriptions.",$600,Negotiating
+R-1005,2023-09-04,Data,"Scrape email addresses from 500 LinkedIn profiles (HR managers).","Lead generation service: formatted CSV delivery + verification.",$250,Rejected
+R-1006,2023-09-04,Web Dev,"Fix a checkout bug on my Shopify store urgently.","Emergency debug session: Fixed within 4 hours guaranteed.",$200,Accepted
+R-1007,2023-09-05,Video,"Edit a 2-hour webinar into a 15-minute highlight reel.","Editing + transitions + sound mixing. Draft in 3 days.",$350,Pending
+R-1008,2023-09-06,Marketing,"Manage my Instagram account for one month (fashion brand).","Social Starter: 3 posts/week + story management + engagement.",$800,Accepted
+R-1009,2023-09-07,Admin,"Organize my Google Drive and classify 3 years of invoices.","Virtual Assistant pack: 10 hours of sorting and filing.",$300,Pending
+R-1010,2023-09-08,Design,"Design a pitch deck for investors (15 slides).","PowerPoint redesign: Custom graphics and charts included.",$550,Accepted
+R-1011,2023-09-09,Dev Mobile,"Build an MVP for a dating app on iOS.","Flutter development: Login, matching, and chat features.",$12000,Rejected
+R-1012,2023-09-09,Translation,"Localize our mobile app UI into Spanish and Italian.","App string localization (JSON files) + linguistic testing.",$900,Accepted
+R-1013,2023-09-10,SEO,"Audit my website technical SEO and provide a report.","Full Technical Audit: Speed, broken links, and metadata analysis.",$400,Accepted
+R-1014,2023-09-11,Design,"Create a 3D product mockup for a shampoo bottle.","Photorealistic 3D render (3 angles) + transparency mask.",$250,Pending
+R-1015,2023-09-11,Web Dev,"Migrate my blog from Wix to WordPress without losing traffic.","Secure Migration: 301 redirects setup and content transfer.",$1000,Accepted
+R-1016,2023-09-12,Copywriting,"Write a sales landing page for a new fitness course.","Direct response copywriting. Focus on conversion. 2 revisions.",$500,Rejected
+R-1017,2023-09-13,Data,"Create a PowerBI dashboard to visualize my sales data.","Dashboard setup: Connection to Excel/SQL + 4 key visuals.",$750,Accepted
+R-1018,2023-09-13,Security,"Perform a penetration test on our company server.","Basic Pen-test: Vulnerability scanning and report.",$2000,Pending
+R-1019,2023-09-14,Music,"Compose a 30-second jingle for a podcast intro.","Original composition + mixing + full commercial rights.",$150,Accepted
+R-1020,2023-09-15,Consulting,"Need business strategy advice for expanding to the UK market.","2h Strategy Call + Summary Report and market research.",$400,Accepted
+R-1021,2023-09-16,Web Dev,"Install and configure a WooCommerce store theme.","Theme installation + demo content import + plugin setup.",$150,Accepted
+R-1022,2023-09-17,Marketing,"Setup Google Ads campaign for a local dentist.","Campaign setup: Keywords, ad copy, and geo-targeting.",$350,Negotiating
+R-1023,2023-09-18,Design,"Redesign a restaurant menu (PDF and Print ready).","Modern layout design. Delivery in InDesign and PDF formats.",$200,Accepted
+R-1024,2023-09-18,Admin,"Data entry: Transfer 500 business cards into a spreadsheet.","Manual typing with accuracy check. Delivery in 24h.",$100,Pending
+R-1025,2023-09-19,Dev Ops,"Deploy a Docker container to AWS EC2 instance.","DevOps Task: Server setup, Docker install, and deployment.",$300,Accepted
+R-1026,2023-09-20,Translation,"Subtitle a 10-minute YouTube video in French.","SRT file creation with time-codes. Native translation.",$80,Accepted
+R-1027,2023-09-21,Web Dev,"Custom JavaScript calculator for a mortgage website.","JS Script development, responsive styling, and embedding.",$600,Pending
+R-1028,2023-09-22,Content,"Write 10 emails for a welcome automation sequence.","Email Marketing Pack: Strategy + Copy for 10 emails.",$700,Rejected
+R-1029,2023-09-22,Design,"Draw 5 custom vector illustrations for a blog.","Flat design style illustrations. SVG and PNG provided.",$400,Accepted
+R-1030,2023-09-23,Video,"Add special effects (VFX) to a music video shot.","After Effects compositing: Rotoscoping and particle effects.",$1500,Negotiating
+R-1031,2023-09-24,Translation,"Proofread a Master's thesis (80 pages) in English.","Academic proofreading: Grammar, syntax, and formatting check.",$300,Accepted
+R-1032,2023-09-25,Data,"Clean up a mailing list of 10,000 contacts.","De-duplication, format fixing, and invalid email removal.",$150,Pending
+R-1033,2023-09-26,Web Dev,"Speed optimization for a slow Magento site.","Performance Pack: Caching setup, image compression, CDN.",$800,Accepted
+R-1034,2023-09-27,Marketing,"Influencer research for a beauty brand launch.","List of 50 micro-influencers with high engagement rates.",$250,Accepted
+R-1035,2023-09-28,Design,"Create an email signature HTML for a law firm.","Clickable HTML signature, tested on Outlook and Gmail.",$80,Pending
+R-1036,2023-09-29,Admin,"Transcribe 3 hours of interview audio.","Verbatim transcription. Timestamps every 5 minutes.",$200,Accepted
+R-1037,2023-09-30,App Dev,"Bug fix on an Android app (crashing on startup).","Crash analysis (Logcat) and code fix + APK build.",$300,Accepted
+R-1038,2023-10-01,Translation,"Translate user manual (2000 words) to Portuguese.","Technical translation by engineering specialist.",$0.10/word,Pending
+R-1039,2023-10-02,Content,"Write product descriptions for 50 items (clothing).","eCommerce copy: 100 words per item, SEO focus.",$300,Accepted
+R-1040,2023-10-02,Photo,"Retouch 20 headshots for a corporate team website.","High-end retouching: Skin smoothing, color correction.",$400,Accepted
+R-1041,2023-10-03,Web Dev,"API integration: Connect CRM to accounting software.","Custom Python script for two-way data sync.",$1200,Negotiating
+R-1042,2023-10-04,Marketing,"Write a press release for a new product launch.","PR writing + distribution to 20 news outlets.",$350,Accepted
+R-1043,2023-10-05,Design,"Design a book cover for a sci-fi novel.","Premium Cover Art: Typography and stock manipulation.",$300,Pending
+R-1044,2023-10-05,Data,"Statistical analysis of survey results (SPSS/R).","Data analysis report: Correlations and graphs included.",$600,Accepted
+R-1045,2023-10-06,Admin,"Schedule 15 meetings across different time zones.","Calendar management: Coordination with all attendees.",$100,Accepted
+R-1046,2023-10-07,Web Dev,"Create a custom plugin for WordPress to filter posts.","Plugin dev: AJAX filter functionality + settings page.",$700,Rejected
+R-1047,2023-10-08,Video,"Create a whiteboard animation explainer video (1 min).","Full production: Script, voiceover, and animation.",$900,Accepted
+R-1048,2023-10-09,Design,"Vectorize a blurry logo image.","Manual tracing: Delivery in AI, EPS, and high-res PNG.",$40,Accepted
+R-1049,2023-10-10,Translation,"Translate a restaurant menu from French to Chinese.","Cultural adaptation translation. PDF delivery.",$150,Pending
+R-1050,2023-10-11,Marketing,"Set up Facebook Pixel and conversion tracking.","Tracking Setup: Event configuration and testing.",$150,Accepted
+R-1051,2023-10-11,Writing,"Ghostwrite a LinkedIn article for a CEO.","Thought leadership piece: 800 words, professional tone.",$250,Accepted
+R-1052,2023-10-12,Web Dev,"Update website PHP version and fix errors.","Server maintenance: Safe upgrade to PHP 8.1.",$200,Pending
+R-1053,2023-10-13,Data,"Visualizing geographic data on a map.","Interactive Map: Data points implementation via Google Maps API.",$450,Accepted
+R-1054,2023-10-14,Design,"Create banners for a Google Display campaign (5 sizes).","Banner Set: Static JPGs complying with ad standards.",$120,Accepted
+R-1055,2023-10-14,Admin,"Research best flight options for a team retreat.","Travel Itinerary: 3 options with cost comparison.",$70,Accepted
+R-1056,2023-10-15,Video,"Add subtitles to a movie trailer in Arabic.","RTL subtitle burning + synchronization.",$50,Pending
+R-1057,2023-10-16,Web Dev,"Implement a dark mode toggle on my portfolio.","CSS/JS feature added + cookie state saving.",$150,Accepted
+R-1058,2023-10-17,Marketing,"Audit our email deliverability issues.","Email Health Check: SPF/DKIM verification and blacklist check.",$300,Accepted
+R-1059,2023-10-17,Translation,"Translate 500 keywords for Amazon listing (DE to EN).","SEO Translation: Retaining keyword search volume value.",$200,Negotiating
+R-1060,2023-10-18,Content,"Write scripts for 5 TikTok videos (educational).","Viral Scripting: Hook-Body-CTA structure.",$150,Accepted
+R-1061,2023-10-19,Design,"Design a T-shirt print for a charity run.","Apparel graphics: High fidelity print file preparation.",$100,Pending
+R-1062,2023-10-20,Web Dev,"Create a 'Coming Soon' page with countdown.","HTML5/CSS3 Landing page + email capture form.",$120,Accepted
+R-1063,2023-10-21,Data,"Automate daily report generation from Excel.","VBA Macro / Python script to auto-generate PDF reports.",$350,Accepted
+R-1064,2023-10-21,Admin,"Customer support coverage for weekend (chat only).","Support Agent: 16 hours of live chat handling.",$250,Rejected
+R-1065,2023-10-22,Design,"Layout a 4-page brochure for a real estate agency.","Brochure Design: Stock photo selection and layout.",$200,Accepted
+R-1066,2023-10-23,Web Dev,"Fix responsiveness issues on iPad Pro.","CSS Media Query adjustments for tablet views.",$100,Pending
+R-1067,2023-10-24,Translation,"Translate a birth certificate (official).","Sworn translation required for visa application.",$60,Accepted
+R-1068,2023-10-25,Marketing,"Review and improve a Facebook Ad copy.","Copy Audit: 3 variations provided for A/B testing.",$80,Accepted
+R-1069,2023-10-25,Writing,"Edit a cover letter for a Senior Manager job.","Career Service: Rewrite for impact and clarity.",$50,Accepted
+R-1070,2023-10-26,Video,"Create an intro animation for Twitch stream.","Motion Graphics: 5-second loop with transparent background.",$200,Pending
+R-1071,2023-10-27,Data,"Scrape prices from competitor websites daily.","Scraper Bot: Hosting and daily CSV dump provided.",$500,Negotiating
+R-1072,2023-10-28,Web Dev,"Integrate Stripe payment gateway on custom site.","Payment Setup: Secure backend handling + frontend form.",$800,Accepted
+R-1073,2023-10-28,Design,"Create a podcast cover art (1400x1400).","Album Art: Digital illustration + typography.",$120,Pending
+R-1074,2023-10-29,Admin,"Find and book a venue for a corporate Christmas party.","Event Scouting: List of 5 venues + availability check.",$150,Accepted
+R-1075,2023-10-30,Translation,"Translate video game dialogue (RPG, 5000 words).","Localization: Creative writing and character tone match.",$0.09/word,Rejected
+R-1076,2023-10-31,Content,"Write FAQs for a new insurance product.","Knowledge Base: 20 Q&A pairs clearly written.",$150,Accepted
+R-1077,2023-11-01,Marketing,"Set up an automated email funnel on Mailchimp.","Automation Logic: Trigger setup and template design.",$300,Pending
+R-1078,2023-11-01,Web Dev,"Remove malware from a hacked website.","Site Cleaning: Virus removal + security hardening.",$250,Accepted
+R-1079,2023-11-02,Design,"Design a roll-up banner for a conference.","Large Format Design: Print-ready file delivery.",$90,Accepted
+R-1080,2023-11-03,Data,"Analyze customer churn rate from CSV data.","Insight Report: Identification of key churn factors.",$550,Accepted
+R-1081,2023-11-04,Video,"Convert 5 videos from MOV to MP4 (compress).","File Conversion: Handbrake optimization without quality loss.",$30,Pending
+R-1082,2023-11-05,Web Dev,"Setup a membership area on my website.","User Access Control: Plugin configuration + payment wall.",$600,Accepted
+R-1083,2023-11-06,Translation,"Translate a medical prescription (urgent).","Rapid Translation: Delivery within 2 hours.",$40,Accepted
+R-1084,2023-11-06,Writing,"Summarize 10 news articles daily for a briefing.","Executive Summary service: Daily email at 8am.",$200/week,Pending
+R-1085,2023-11-07,Design,"Create social media templates in Canva.","Template Pack: 10 editable Canva links provided.",$150,Accepted
+R-1086,2023-11-08,Marketing,"Optimize Google My Business profile.","Local SEO: Description update + post creation.",$100,Accepted
+R-1087,2023-11-09,Admin,"Data cleaning: Formatting names to 'Title Case'.","Spreadsheet Cleanup: 2000 rows processed.",$50,Accepted
+R-1088,2023-11-10,Web Dev,"Move a website from subdomain to main domain.","Domain Mapping: DNS updates and database search/replace.",$150,Rejected
+R-1089,2023-11-10,Design,"Design a loyalty card for a coffee shop.","Print Design: Front and back layout + bleed setup.",$70,Accepted
+R-1090,2023-11-11,Translation,"Translate subtitle file (SRT) from Spanish to English.","Subtitle Translation: maintaining timing and context.",$90,Pending
+R-1091,2023-11-12,Content,"Write a biography for an artist website.","Bio Writing: Storytelling approach, 300 words.",$80,Accepted
+R-1092,2023-11-13,Data,"Training a custom chatbot on company data.","AI Setup: Uploading PDF manuals to knowledge base.",$1000,Negotiating
+R-1093,2023-11-14,Web Dev,"Fix HTTP 500 error on checkout page.","Server Logs analysis + code patching.",$180,Accepted
+R-1094,2023-11-15,Video,"Add background music to a silent drone video.","Audio syncing: License-free track selection.",$60,Accepted
+R-1095,2023-11-16,Design,"Create a favicon pack for all devices.","Icon Design: Generating ICO/PNG in all necessary sizes.",$30,Pending
+R-1096,2023-11-17,Marketing,"Review analytics and suggest ROI improvements.","Consultation: 1 hour call walking through Analytics.",$150,Accepted
+R-1097,2023-11-18,Translation,"Translate technical specs for heavy machinery.","Engineering Translation: specialized vocabulary use.",$500,Accepted
+R-1098,2023-11-19,Web Dev,"Create a custom 404 error page.","Design & Code: Creative illustration + helpful links.",$100,Accepted
+R-1099,2023-11-20,Admin,"Manage email inbox during vacation (2 weeks).","Inbox Zero service: Sorting and urgent replies.",$400,Accepted
+R-1100,2023-11-21,Design,"Infographic creation for a health blog.","Visual Design: Turning data into a long-form graphic.",$200,Accepted
