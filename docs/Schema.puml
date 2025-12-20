@@ -1,0 +1,55 @@
+@startuml name Schema 
+skinparam rectangle {
+  BackgroundColor White
+  BorderColor Black
+  RoundCorner 10
+}
+
+skinparam ArrowColor #1d7f5f
+skinparam ArrowThickness 2
+
+title Этапность решения: Умный генератор коммерческих предложений
+
+rectangle "Этап 0\nПодготовка данных\nOCR, очистка, нормализация" as E0 #DCE6F2
+
+rectangle "Этап 1 Baseline\nИзвлечение параметров\n(NER / Regexp / LLM Zero-shot)" as E1B #FDE9D9
+rectangle "Этап 1 MVP\nУлучшенное извлечение\n(NER + LLM Few-shot)" as E1M #E2F0D9
+
+rectangle "Этап 2\nСопоставление с каталогом\n и Бизнес-правилами" as E2 #D9E1F2
+
+rectangle "Этап 3\nГенерация КП\nLLM + шаблоны" as E3 #D9E1F2
+
+rectangle "Этап 4 Baseline\nПроверка менеджером\nПравки и логирование" as E4B #FDE9D9
+rectangle "Этап 4 MVP\nИнтеграция бизнес-правил" as E4M #E2F0D9
+
+rectangle "Этап 5\nФормирование финального КП\nPDF / DOCX" as E5 #D9E1F2
+
+rectangle "Этап 6\nСбор метрик\nАнализ ошибок" as E6 #DCE6F2
+
+rectangle "Этап 7\nЗакрытие техдолга\nРефакторинг" as E7 #E2F0D9
+
+rectangle "Этап 8\nПодготовка пилота\nИнтеграция в процесс" as E8 #E2F0D9
+
+'---- DIFFERENT RELATIONS ---'
+E0 --> E1B
+E0 --> E1M
+
+E1B --> E2
+E1M --> E2
+
+E2 --> E3
+
+E3 --> E4B
+E3 --> E4M
+
+E4B --> E5
+E4M --> E5
+
+E5 --> E6
+E6 --> E7
+E7 --> E8
+
+E2 ..> E0 : Показ бизнес-заказчикy
+E4M ..> E2 : Коррекция правил\n(точка отчетности)
+E6 ..> E3 : Улучшения\nпо итогам метрик
+
