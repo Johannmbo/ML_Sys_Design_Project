@@ -1,0 +1,1001 @@
+request_id,date,sector,client_request,commercial_proposal,budget_est,status
+R-1000,2023-10-18,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1460,Rejected
+R-1001,2023-10-26,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$3396,Rejected
+R-1002,2023-10-19,Design,Can you help with Vector illustrations? We are a startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3737,Negotiating
+R-1003,2023-10-13,Mobile App,I need a Android bug fix for my tech startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$4716,Negotiating
+R-1004,2023-09-24,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1591,Accepted
+R-1005,2023-09-11,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1665,Accepted
+R-1006,2023-11-10,Translation,I need a App localization for my retail store.,"Professional App localization delivery. High quality, quick turnaround.",$136,Pending
+R-1007,2023-11-22,IT Security,I need a Malware removal for my retail store.,"Professional Malware removal delivery. High quality, quick turnaround.",$413,Pending
+R-1008,2023-09-11,SEO,I need a Technical audit for my tech startup.,"Professional Technical audit delivery. High quality, quick turnaround.",$4700,Negotiating
+R-1009,2023-09-09,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3962,Negotiating
+R-1010,2023-09-01,Marketing,I need a Google Ads setup for my retail store.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$584,Rejected
+R-1011,2023-09-27,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$1375,Rejected
+R-1012,2023-09-04,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3920,Negotiating
+R-1013,2023-10-09,Marketing,Can you help with SMM strategy? We are a startup.,"Professional SMM strategy delivery. High quality, quick turnaround.",$969,Accepted
+R-1014,2023-10-30,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3513,Negotiating
+R-1015,2023-11-04,Web Dev,I need a E-commerce store for my law firm.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2202,Negotiating
+R-1016,2023-09-27,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$2553,Rejected
+R-1017,2023-11-06,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$504,Accepted
+R-1018,2023-09-21,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4833,Negotiating
+R-1019,2023-09-04,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3700,Rejected
+R-1020,2023-10-20,Translation,I need a App localization for my retail store.,"Professional App localization delivery. High quality, quick turnaround.",$4136,Negotiating
+R-1021,2023-09-13,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4362,Rejected
+R-1022,2023-09-30,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2531,Accepted
+R-1023,2023-10-31,Mobile App,Can you help with iOS MVP? We are a startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4628,Negotiating
+R-1024,2023-11-19,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2522,Negotiating
+R-1025,2023-09-10,Data Science,Urgent: Predictive model project. Budget is flexible.,"Professional Predictive model delivery. High quality, quick turnaround.",$3946,Accepted
+R-1026,2023-10-29,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$510,Pending
+R-1027,2023-10-12,Design,I need a Logo redesign for my bakery.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2257,Accepted
+R-1028,2023-10-25,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$4008,Accepted
+R-1029,2023-10-12,Design,I need a Brand identity for my tech startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$3390,Negotiating
+R-1030,2023-10-05,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$2519,Pending
+R-1031,2023-10-23,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$521,Negotiating
+R-1032,2023-09-18,Web Dev,Need a quote for React dashboard by tomorrow.,"Professional React dashboard delivery. High quality, quick turnaround.",$3034,Negotiating
+R-1033,2023-11-25,Data Science,Need a quote for Data cleaning by tomorrow.,"Professional Data cleaning delivery. High quality, quick turnaround.",$4840,Rejected
+R-1034,2023-11-15,SEO,I need a Keyword research for my SaaS.,"Professional Keyword research delivery. High quality, quick turnaround.",$1070,Negotiating
+R-1035,2023-09-17,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1508,Rejected
+R-1036,2023-09-19,Data Science,I need a PowerBI dashboard for my tech startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$1302,Pending
+R-1037,2023-09-09,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$364,Pending
+R-1038,2023-09-28,SEO,Can you help with Keyword research? We are a startup.,"Professional Keyword research delivery. High quality, quick turnaround.",$328,Accepted
+R-1039,2023-09-05,Marketing,Urgent: Influencer research project. Budget is flexible.,"Professional Influencer research delivery. High quality, quick turnaround.",$3215,Rejected
+R-1040,2023-10-20,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$4473,Negotiating
+R-1041,2023-11-30,Web Dev,Looking for a long-term partner for E-commerce store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3383,Accepted
+R-1042,2023-09-21,Web Dev,I need a Landing page for my law firm.,"Professional Landing page delivery. High quality, quick turnaround.",$4054,Negotiating
+R-1043,2023-11-11,Web Dev,I need a React dashboard for my tech startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$3533,Rejected
+R-1044,2023-10-25,Design,I need a Logo redesign for my bakery.,"Professional Logo redesign delivery. High quality, quick turnaround.",$4947,Negotiating
+R-1045,2023-10-28,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3022,Negotiating
+R-1046,2023-09-17,Mobile App,I need a iOS MVP for my SaaS.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3621,Negotiating
+R-1047,2023-11-13,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2787,Negotiating
+R-1048,2023-11-27,Web Dev,Need a quote for E-commerce store by tomorrow.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3124,Rejected
+R-1049,2023-11-03,Mobile App,I need a Flutter cross-platform app for my SaaS.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$558,Accepted
+R-1050,2023-09-07,Web Dev,Can you help with React dashboard? We are a startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$4175,Rejected
+R-1051,2023-11-25,IT Security,Looking for a long-term partner for Malware removal.,"Professional Malware removal delivery. High quality, quick turnaround.",$4114,Negotiating
+R-1052,2023-10-08,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$1662,Pending
+R-1053,2023-10-22,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4716,Rejected
+R-1054,2023-09-21,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$198,Accepted
+R-1055,2023-10-31,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1515,Accepted
+R-1056,2023-10-31,Web Dev,I need a Landing page for my bakery.,"Professional Landing page delivery. High quality, quick turnaround.",$1522,Accepted
+R-1057,2023-10-12,Data Science,I need a Predictive model for my retail store.,"Professional Predictive model delivery. High quality, quick turnaround.",$3495,Negotiating
+R-1058,2023-11-04,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$732,Accepted
+R-1059,2023-09-14,Design,Need a quote for Logo redesign by tomorrow.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3994,Accepted
+R-1060,2023-11-07,Design,I need a Vector illustrations for my retail store.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$4474,Negotiating
+R-1061,2023-10-11,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$2221,Accepted
+R-1062,2023-10-08,Mobile App,I need a Android bug fix for my tech startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1906,Accepted
+R-1063,2023-10-21,Mobile App,Urgent: Android bug fix project. Budget is flexible.,"Professional Android bug fix delivery. High quality, quick turnaround.",$915,Negotiating
+R-1064,2023-11-11,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$242,Accepted
+R-1065,2023-10-23,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2260,Negotiating
+R-1066,2023-09-29,Design,Looking for a long-term partner for Vector illustrations.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3806,Negotiating
+R-1067,2023-09-07,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3508,Accepted
+R-1068,2023-09-09,Marketing,I need a Google Ads setup for my bakery.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$256,Accepted
+R-1069,2023-10-14,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$1398,Rejected
+R-1070,2023-11-30,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$942,Accepted
+R-1071,2023-11-17,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3903,Negotiating
+R-1072,2023-11-01,Web Dev,Looking for a long-term partner for E-commerce store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3457,Accepted
+R-1073,2023-11-06,Translation,I need a Legal contract translation for my law firm.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$300,Accepted
+R-1074,2023-09-25,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$3359,Negotiating
+R-1075,2023-11-29,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4714,Negotiating
+R-1076,2023-09-07,Design,I need a UI/UX for mobile app for my law firm.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$309,Accepted
+R-1077,2023-09-23,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$823,Accepted
+R-1078,2023-11-10,Design,I need a Brand identity for my retail store.,"Professional Brand identity delivery. High quality, quick turnaround.",$3995,Rejected
+R-1079,2023-09-11,Design,Can you help with Brand identity? We are a startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$1629,Accepted
+R-1080,2023-09-29,Marketing,I need a Google Ads setup for my SaaS.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$102,Accepted
+R-1081,2023-10-08,Web Dev,I need a E-commerce store for my tech startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3069,Rejected
+R-1082,2023-09-28,Mobile App,I need a Flutter cross-platform app for my retail store.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$240,Accepted
+R-1083,2023-10-23,Marketing,Urgent: Influencer research project. Budget is flexible.,"Professional Influencer research delivery. High quality, quick turnaround.",$595,Accepted
+R-1084,2023-09-03,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$836,Accepted
+R-1085,2023-09-03,Design,I need a Logo redesign for my retail store.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2904,Pending
+R-1086,2023-10-31,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$3949,Rejected
+R-1087,2023-09-21,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4644,Rejected
+R-1088,2023-10-14,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$4437,Rejected
+R-1089,2023-09-29,SEO,I need a Keyword research for my law firm.,"Professional Keyword research delivery. High quality, quick turnaround.",$833,Accepted
+R-1090,2023-11-27,Data Science,Can you help with Predictive model? We are a startup.,"Professional Predictive model delivery. High quality, quick turnaround.",$75,Rejected
+R-1091,2023-11-20,Web Dev,Need a quote for WordPress site by tomorrow.,"Professional WordPress site delivery. High quality, quick turnaround.",$2276,Accepted
+R-1092,2023-11-11,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$1549,Accepted
+R-1093,2023-10-11,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3128,Negotiating
+R-1094,2023-10-23,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$4416,Negotiating
+R-1095,2023-11-16,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4788,Negotiating
+R-1096,2023-09-28,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$4188,Negotiating
+R-1097,2023-10-09,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4731,Negotiating
+R-1098,2023-10-21,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4577,Negotiating
+R-1099,2023-11-04,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$453,Accepted
+R-1100,2023-11-25,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$4140,Rejected
+R-1101,2023-11-30,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$222,Accepted
+R-1102,2023-11-23,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$2815,Accepted
+R-1103,2023-10-16,Web Dev,I need a E-commerce store for my retail store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$958,Negotiating
+R-1104,2023-11-21,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2882,Rejected
+R-1105,2023-11-08,Mobile App,I need a Android bug fix for my bakery.,"Professional Android bug fix delivery. High quality, quick turnaround.",$2858,Accepted
+R-1106,2023-10-15,IT Security,I need a SSL configuration for my tech startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2583,Accepted
+R-1107,2023-09-24,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$291,Accepted
+R-1108,2023-10-26,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$2836,Pending
+R-1109,2023-09-20,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$3557,Rejected
+R-1110,2023-09-06,Translation,I need a App localization for my bakery.,"Professional App localization delivery. High quality, quick turnaround.",$846,Rejected
+R-1111,2023-10-03,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3795,Negotiating
+R-1112,2023-09-18,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4464,Accepted
+R-1113,2023-09-19,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$367,Accepted
+R-1114,2023-09-25,Data Science,Urgent: Data cleaning project. Budget is flexible.,"Professional Data cleaning delivery. High quality, quick turnaround.",$4515,Negotiating
+R-1115,2023-09-22,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4911,Rejected
+R-1116,2023-09-20,Mobile App,I need a Android bug fix for my SaaS.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1009,Negotiating
+R-1117,2023-10-19,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2641,Negotiating
+R-1118,2023-10-24,Design,I need a Brand identity for my law firm.,"Professional Brand identity delivery. High quality, quick turnaround.",$863,Rejected
+R-1119,2023-09-19,Design,Need a quote for Logo redesign by tomorrow.,"Professional Logo redesign delivery. High quality, quick turnaround.",$1461,Accepted
+R-1120,2023-11-07,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4303,Accepted
+R-1121,2023-10-10,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$3275,Rejected
+R-1122,2023-11-04,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$2316,Accepted
+R-1123,2023-09-08,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3869,Accepted
+R-1124,2023-10-28,Mobile App,I need a Android bug fix for my SaaS.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1870,Pending
+R-1125,2023-10-18,Web Dev,I need a Landing page for my bakery.,"Professional Landing page delivery. High quality, quick turnaround.",$999,Pending
+R-1126,2023-10-28,Web Dev,Can you help with React dashboard? We are a startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$4468,Rejected
+R-1127,2023-09-09,Data Science,Need a quote for Data cleaning by tomorrow.,"Professional Data cleaning delivery. High quality, quick turnaround.",$2385,Negotiating
+R-1128,2023-09-15,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$493,Accepted
+R-1129,2023-11-15,IT Security,Looking for a long-term partner for Malware removal.,"Professional Malware removal delivery. High quality, quick turnaround.",$1057,Pending
+R-1130,2023-10-20,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2749,Pending
+R-1131,2023-10-23,SEO,I need a Technical audit for my retail store.,"Professional Technical audit delivery. High quality, quick turnaround.",$3456,Rejected
+R-1132,2023-11-12,Web Dev,Need a quote for E-commerce store by tomorrow.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3895,Negotiating
+R-1133,2023-09-26,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3213,Negotiating
+R-1134,2023-09-30,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4869,Rejected
+R-1135,2023-09-09,Translation,I need a App localization for my SaaS.,"Professional App localization delivery. High quality, quick turnaround.",$1758,Pending
+R-1136,2023-10-27,Marketing,I need a SMM strategy for my law firm.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1646,Rejected
+R-1137,2023-09-25,Data Science,I need a Data cleaning for my tech startup.,"Professional Data cleaning delivery. High quality, quick turnaround.",$2470,Accepted
+R-1138,2023-09-12,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2990,Negotiating
+R-1139,2023-09-04,Translation,I need a App localization for my retail store.,"Professional App localization delivery. High quality, quick turnaround.",$4608,Accepted
+R-1140,2023-09-11,IT Security,Urgent: SSL configuration project. Budget is flexible.,"Professional SSL configuration delivery. High quality, quick turnaround.",$1843,Pending
+R-1141,2023-11-30,Web Dev,Looking for a long-term partner for WordPress site.,"Professional WordPress site delivery. High quality, quick turnaround.",$1518,Negotiating
+R-1142,2023-10-16,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$2740,Rejected
+R-1143,2023-10-22,Marketing,I need a Google Ads setup for my tech startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$1629,Negotiating
+R-1144,2023-10-07,Mobile App,I need a Flutter cross-platform app for my retail store.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1250,Pending
+R-1145,2023-10-24,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$3329,Negotiating
+R-1146,2023-09-10,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1416,Negotiating
+R-1147,2023-11-22,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1566,Rejected
+R-1148,2023-09-27,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$3189,Accepted
+R-1149,2023-11-17,SEO,I need a Keyword research for my retail store.,"Professional Keyword research delivery. High quality, quick turnaround.",$2783,Negotiating
+R-1150,2023-10-08,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$3372,Accepted
+R-1151,2023-09-26,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2875,Accepted
+R-1152,2023-10-23,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$3211,Negotiating
+R-1153,2023-10-19,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$372,Accepted
+R-1154,2023-11-01,IT Security,Urgent: SSL configuration project. Budget is flexible.,"Professional SSL configuration delivery. High quality, quick turnaround.",$1857,Negotiating
+R-1155,2023-11-23,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$4570,Rejected
+R-1156,2023-11-22,Data Science,Looking for a long-term partner for Predictive model.,"Professional Predictive model delivery. High quality, quick turnaround.",$2016,Pending
+R-1157,2023-10-30,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4382,Negotiating
+R-1158,2023-11-10,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$2781,Rejected
+R-1159,2023-09-19,Design,Can you help with UI/UX for mobile app? We are a startup.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4849,Negotiating
+R-1160,2023-09-27,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$857,Rejected
+R-1161,2023-09-11,Marketing,Can you help with SMM strategy? We are a startup.,"Professional SMM strategy delivery. High quality, quick turnaround.",$3292,Accepted
+R-1162,2023-10-13,Web Dev,I need a WordPress site for my law firm.,"Professional WordPress site delivery. High quality, quick turnaround.",$3272,Negotiating
+R-1163,2023-09-25,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$4293,Rejected
+R-1164,2023-10-28,Web Dev,Urgent: React dashboard project. Budget is flexible.,"Professional React dashboard delivery. High quality, quick turnaround.",$3059,Accepted
+R-1165,2023-10-02,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$588,Accepted
+R-1166,2023-09-03,Marketing,Looking for a long-term partner for Influencer research.,"Professional Influencer research delivery. High quality, quick turnaround.",$4485,Accepted
+R-1167,2023-10-01,Marketing,Looking for a long-term partner for Email funnel.,"Professional Email funnel delivery. High quality, quick turnaround.",$1628,Negotiating
+R-1168,2023-10-28,Design,Can you help with Brand identity? We are a startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$1254,Pending
+R-1169,2023-11-29,Translation,I need a Legal contract translation for my bakery.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4052,Rejected
+R-1170,2023-10-22,Marketing,I need a Influencer research for my SaaS.,"Professional Influencer research delivery. High quality, quick turnaround.",$2189,Negotiating
+R-1171,2023-10-06,SEO,Looking for a long-term partner for Keyword research.,"Professional Keyword research delivery. High quality, quick turnaround.",$118,Accepted
+R-1172,2023-11-05,Web Dev,I need a WordPress site for my law firm.,"Professional WordPress site delivery. High quality, quick turnaround.",$395,Accepted
+R-1173,2023-10-06,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2161,Rejected
+R-1174,2023-11-28,SEO,Can you help with Keyword research? We are a startup.,"Professional Keyword research delivery. High quality, quick turnaround.",$1219,Rejected
+R-1175,2023-10-28,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$3655,Negotiating
+R-1176,2023-09-27,SEO,Looking for a long-term partner for Keyword research.,"Professional Keyword research delivery. High quality, quick turnaround.",$946,Negotiating
+R-1177,2023-10-26,Web Dev,Need a quote for E-commerce store by tomorrow.,"Professional E-commerce store delivery. High quality, quick turnaround.",$4045,Negotiating
+R-1178,2023-11-18,Design,Can you help with Vector illustrations? We are a startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$4072,Rejected
+R-1179,2023-09-05,Design,Can you help with Logo redesign? We are a startup.,"Professional Logo redesign delivery. High quality, quick turnaround.",$1037,Negotiating
+R-1180,2023-09-10,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$1456,Negotiating
+R-1181,2023-09-28,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$267,Accepted
+R-1182,2023-10-16,Mobile App,Urgent: Flutter cross-platform app project. Budget is flexible.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3257,Negotiating
+R-1183,2023-11-22,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$376,Accepted
+R-1184,2023-10-30,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2416,Accepted
+R-1185,2023-09-29,Web Dev,Need a quote for React dashboard by tomorrow.,"Professional React dashboard delivery. High quality, quick turnaround.",$4743,Rejected
+R-1186,2023-09-15,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2487,Rejected
+R-1187,2023-10-02,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$969,Rejected
+R-1188,2023-09-10,Marketing,Urgent: Influencer research project. Budget is flexible.,"Professional Influencer research delivery. High quality, quick turnaround.",$3576,Negotiating
+R-1189,2023-10-13,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$1909,Pending
+R-1190,2023-09-23,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$4734,Negotiating
+R-1191,2023-11-22,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1283,Accepted
+R-1192,2023-11-10,Web Dev,Urgent: E-commerce store project. Budget is flexible.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3526,Negotiating
+R-1193,2023-10-20,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$1631,Negotiating
+R-1194,2023-09-14,Data Science,Urgent: Scraper bot project. Budget is flexible.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2497,Accepted
+R-1195,2023-09-14,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$64,Pending
+R-1196,2023-09-03,Marketing,Looking for a long-term partner for Email funnel.,"Professional Email funnel delivery. High quality, quick turnaround.",$2995,Pending
+R-1197,2023-11-05,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2930,Accepted
+R-1198,2023-09-25,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3712,Negotiating
+R-1199,2023-11-05,Marketing,I need a SMM strategy for my retail store.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1679,Pending
+R-1200,2023-11-15,IT Security,Looking for a long-term partner for Penetration test.,"Professional Penetration test delivery. High quality, quick turnaround.",$1499,Accepted
+R-1201,2023-10-08,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$344,Accepted
+R-1202,2023-11-02,Data Science,Can you help with PowerBI dashboard? We are a startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$275,Pending
+R-1203,2023-11-20,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1758,Pending
+R-1204,2023-09-06,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3324,Negotiating
+R-1205,2023-10-13,IT Security,Urgent: SSL configuration project. Budget is flexible.,"Professional SSL configuration delivery. High quality, quick turnaround.",$173,Accepted
+R-1206,2023-11-16,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4596,Rejected
+R-1207,2023-10-12,Web Dev,I need a React dashboard for my bakery.,"Professional React dashboard delivery. High quality, quick turnaround.",$1182,Accepted
+R-1208,2023-09-10,Design,I need a Brand identity for my tech startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$3483,Negotiating
+R-1209,2023-09-23,Web Dev,Urgent: React dashboard project. Budget is flexible.,"Professional React dashboard delivery. High quality, quick turnaround.",$1521,Negotiating
+R-1210,2023-10-24,Data Science,Can you help with PowerBI dashboard? We are a startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2308,Pending
+R-1211,2023-09-03,Marketing,I need a Influencer research for my SaaS.,"Professional Influencer research delivery. High quality, quick turnaround.",$1344,Negotiating
+R-1212,2023-11-29,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$3746,Rejected
+R-1213,2023-11-29,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2536,Rejected
+R-1214,2023-09-27,SEO,I need a Backlink strategy for my retail store.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3407,Negotiating
+R-1215,2023-11-29,Mobile App,Can you help with iOS MVP? We are a startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2124,Rejected
+R-1216,2023-11-27,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$304,Accepted
+R-1217,2023-11-18,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$4411,Rejected
+R-1218,2023-09-29,Translation,Need a quote for Website proofreading by tomorrow.,"Professional Website proofreading delivery. High quality, quick turnaround.",$3821,Negotiating
+R-1219,2023-10-18,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2277,Accepted
+R-1220,2023-10-28,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$3038,Rejected
+R-1221,2023-11-03,Data Science,Need a quote for Predictive model by tomorrow.,"Professional Predictive model delivery. High quality, quick turnaround.",$4790,Accepted
+R-1222,2023-09-11,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$692,Pending
+R-1223,2023-10-30,Web Dev,Looking for a long-term partner for WordPress site.,"Professional WordPress site delivery. High quality, quick turnaround.",$4494,Negotiating
+R-1224,2023-11-24,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$1588,Accepted
+R-1225,2023-09-07,Web Dev,Urgent: E-commerce store project. Budget is flexible.,"Professional E-commerce store delivery. High quality, quick turnaround.",$1458,Accepted
+R-1226,2023-09-17,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$806,Rejected
+R-1227,2023-09-14,Marketing,I need a Influencer research for my tech startup.,"Professional Influencer research delivery. High quality, quick turnaround.",$4913,Negotiating
+R-1228,2023-11-25,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4176,Negotiating
+R-1229,2023-10-06,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2384,Negotiating
+R-1230,2023-10-12,Data Science,Can you help with Data cleaning? We are a startup.,"Professional Data cleaning delivery. High quality, quick turnaround.",$2718,Negotiating
+R-1231,2023-09-02,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3585,Rejected
+R-1232,2023-10-02,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4226,Accepted
+R-1233,2023-11-06,SEO,I need a Keyword research for my bakery.,"Professional Keyword research delivery. High quality, quick turnaround.",$3749,Negotiating
+R-1234,2023-09-22,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$2231,Pending
+R-1235,2023-09-11,Data Science,Can you help with Predictive model? We are a startup.,"Professional Predictive model delivery. High quality, quick turnaround.",$2863,Accepted
+R-1236,2023-10-12,Data Science,I need a PowerBI dashboard for my SaaS.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3644,Rejected
+R-1237,2023-11-22,Data Science,I need a Predictive model for my retail store.,"Professional Predictive model delivery. High quality, quick turnaround.",$3914,Negotiating
+R-1238,2023-10-30,Web Dev,Urgent: React dashboard project. Budget is flexible.,"Professional React dashboard delivery. High quality, quick turnaround.",$3772,Negotiating
+R-1239,2023-10-14,Design,I need a UI/UX for mobile app for my SaaS.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4456,Negotiating
+R-1240,2023-11-23,Web Dev,Need a quote for React dashboard by tomorrow.,"Professional React dashboard delivery. High quality, quick turnaround.",$4917,Negotiating
+R-1241,2023-09-19,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$1398,Pending
+R-1242,2023-11-07,Web Dev,Urgent: Landing page project. Budget is flexible.,"Professional Landing page delivery. High quality, quick turnaround.",$262,Pending
+R-1243,2023-09-13,Data Science,Urgent: Scraper bot project. Budget is flexible.,"Professional Scraper bot delivery. High quality, quick turnaround.",$357,Pending
+R-1244,2023-11-18,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2943,Accepted
+R-1245,2023-09-15,Data Science,Looking for a long-term partner for Data cleaning.,"Professional Data cleaning delivery. High quality, quick turnaround.",$997,Accepted
+R-1246,2023-11-28,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$819,Accepted
+R-1247,2023-09-04,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3291,Rejected
+R-1248,2023-10-26,Mobile App,I need a Android bug fix for my law firm.,"Professional Android bug fix delivery. High quality, quick turnaround.",$636,Pending
+R-1249,2023-11-07,Marketing,I need a Email funnel for my retail store.,"Professional Email funnel delivery. High quality, quick turnaround.",$4951,Negotiating
+R-1250,2023-10-11,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4266,Negotiating
+R-1251,2023-09-01,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$2290,Pending
+R-1252,2023-09-23,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$993,Negotiating
+R-1253,2023-11-09,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2457,Rejected
+R-1254,2023-11-17,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$554,Accepted
+R-1255,2023-11-23,Data Science,Urgent: Scraper bot project. Budget is flexible.,"Professional Scraper bot delivery. High quality, quick turnaround.",$280,Rejected
+R-1256,2023-09-01,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4958,Negotiating
+R-1257,2023-11-13,IT Security,Looking for a long-term partner for Malware removal.,"Professional Malware removal delivery. High quality, quick turnaround.",$2103,Rejected
+R-1258,2023-10-29,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4389,Negotiating
+R-1259,2023-11-10,Web Dev,I need a WordPress site for my tech startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$3234,Rejected
+R-1260,2023-11-03,Design,Looking for a long-term partner for Vector illustrations.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3469,Accepted
+R-1261,2023-10-30,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4315,Rejected
+R-1262,2023-10-08,Design,I need a UI/UX for mobile app for my bakery.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$68,Pending
+R-1263,2023-10-11,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$210,Accepted
+R-1264,2023-09-30,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3903,Rejected
+R-1265,2023-09-27,IT Security,Looking for a long-term partner for Malware removal.,"Professional Malware removal delivery. High quality, quick turnaround.",$4104,Accepted
+R-1266,2023-09-02,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1971,Accepted
+R-1267,2023-10-25,Mobile App,Urgent: Flutter cross-platform app project. Budget is flexible.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1043,Accepted
+R-1268,2023-09-27,SEO,I need a Backlink strategy for my retail store.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1718,Rejected
+R-1269,2023-11-03,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4521,Negotiating
+R-1270,2023-09-18,Data Science,Need a quote for Scraper bot by tomorrow.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2424,Accepted
+R-1271,2023-09-10,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$1808,Accepted
+R-1272,2023-10-25,SEO,I need a Backlink strategy for my tech startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4266,Negotiating
+R-1273,2023-09-28,IT Security,Looking for a long-term partner for Penetration test.,"Professional Penetration test delivery. High quality, quick turnaround.",$4789,Negotiating
+R-1274,2023-09-29,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$1805,Accepted
+R-1275,2023-09-22,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1400,Rejected
+R-1276,2023-09-15,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$3478,Negotiating
+R-1277,2023-09-21,Data Science,Looking for a long-term partner for Data cleaning.,"Professional Data cleaning delivery. High quality, quick turnaround.",$1778,Accepted
+R-1278,2023-11-06,Mobile App,Urgent: Android bug fix project. Budget is flexible.,"Professional Android bug fix delivery. High quality, quick turnaround.",$818,Accepted
+R-1279,2023-11-23,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$924,Pending
+R-1280,2023-10-27,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$4676,Negotiating
+R-1281,2023-10-06,Design,I need a Logo redesign for my bakery.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2836,Pending
+R-1282,2023-09-27,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2978,Negotiating
+R-1283,2023-10-31,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1034,Accepted
+R-1284,2023-09-29,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$371,Accepted
+R-1285,2023-10-19,Data Science,Need a quote for Scraper bot by tomorrow.,"Professional Scraper bot delivery. High quality, quick turnaround.",$4688,Rejected
+R-1286,2023-11-04,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3918,Negotiating
+R-1287,2023-10-02,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1643,Pending
+R-1288,2023-10-12,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$3486,Negotiating
+R-1289,2023-11-26,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4568,Negotiating
+R-1290,2023-10-07,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$937,Rejected
+R-1291,2023-11-28,Design,I need a Brand identity for my bakery.,"Professional Brand identity delivery. High quality, quick turnaround.",$4067,Accepted
+R-1292,2023-10-27,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$303,Rejected
+R-1293,2023-11-17,Translation,I need a App localization for my bakery.,"Professional App localization delivery. High quality, quick turnaround.",$1191,Accepted
+R-1294,2023-10-02,SEO,I need a Keyword research for my law firm.,"Professional Keyword research delivery. High quality, quick turnaround.",$3287,Negotiating
+R-1295,2023-09-07,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$3753,Accepted
+R-1296,2023-09-26,Data Science,Need a quote for Scraper bot by tomorrow.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3581,Negotiating
+R-1297,2023-09-14,Translation,I need a App localization for my tech startup.,"Professional App localization delivery. High quality, quick turnaround.",$1451,Negotiating
+R-1298,2023-10-23,Data Science,I need a Scraper bot for my SaaS.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1957,Accepted
+R-1299,2023-09-21,Web Dev,I need a E-commerce store for my retail store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3766,Rejected
+R-1300,2023-11-27,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$1143,Accepted
+R-1301,2023-11-23,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$939,Accepted
+R-1302,2023-09-25,Marketing,I need a Email funnel for my retail store.,"Professional Email funnel delivery. High quality, quick turnaround.",$4969,Negotiating
+R-1303,2023-10-26,IT Security,I need a Malware removal for my SaaS.,"Professional Malware removal delivery. High quality, quick turnaround.",$2025,Negotiating
+R-1304,2023-11-23,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4050,Accepted
+R-1305,2023-11-11,Web Dev,Looking for a long-term partner for E-commerce store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3190,Accepted
+R-1306,2023-09-23,SEO,I need a Keyword research for my SaaS.,"Professional Keyword research delivery. High quality, quick turnaround.",$2634,Rejected
+R-1307,2023-11-18,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$318,Accepted
+R-1308,2023-09-24,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1790,Pending
+R-1309,2023-09-29,Marketing,Can you help with Influencer research? We are a startup.,"Professional Influencer research delivery. High quality, quick turnaround.",$4883,Accepted
+R-1310,2023-09-23,Mobile App,Urgent: Android bug fix project. Budget is flexible.,"Professional Android bug fix delivery. High quality, quick turnaround.",$701,Pending
+R-1311,2023-11-12,Data Science,I need a Scraper bot for my bakery.,"Professional Scraper bot delivery. High quality, quick turnaround.",$4615,Rejected
+R-1312,2023-10-26,Marketing,Looking for a long-term partner for Influencer research.,"Professional Influencer research delivery. High quality, quick turnaround.",$4883,Rejected
+R-1313,2023-11-19,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4232,Negotiating
+R-1314,2023-09-24,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$4610,Rejected
+R-1315,2023-09-11,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$3670,Negotiating
+R-1316,2023-11-21,Data Science,I need a Data cleaning for my bakery.,"Professional Data cleaning delivery. High quality, quick turnaround.",$1679,Negotiating
+R-1317,2023-09-27,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$703,Negotiating
+R-1318,2023-10-09,Translation,Urgent: App localization project. Budget is flexible.,"Professional App localization delivery. High quality, quick turnaround.",$508,Pending
+R-1319,2023-09-27,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$3520,Negotiating
+R-1320,2023-09-17,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2106,Rejected
+R-1321,2023-10-20,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3619,Rejected
+R-1322,2023-09-02,Data Science,I need a Scraper bot for my retail store.,"Professional Scraper bot delivery. High quality, quick turnaround.",$843,Accepted
+R-1323,2023-11-22,SEO,Looking for a long-term partner for Technical audit.,"Professional Technical audit delivery. High quality, quick turnaround.",$4384,Accepted
+R-1324,2023-11-14,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2071,Rejected
+R-1325,2023-09-16,Translation,Can you help with App localization? We are a startup.,"Professional App localization delivery. High quality, quick turnaround.",$746,Pending
+R-1326,2023-11-10,Design,Looking for a long-term partner for Vector illustrations.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3005,Accepted
+R-1327,2023-10-08,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3576,Negotiating
+R-1328,2023-11-28,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1764,Pending
+R-1329,2023-11-02,Web Dev,Can you help with WordPress site? We are a startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$1126,Pending
+R-1330,2023-10-19,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$513,Accepted
+R-1331,2023-11-07,Data Science,Can you help with PowerBI dashboard? We are a startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$1374,Rejected
+R-1332,2023-11-28,Marketing,Need a quote for SMM strategy by tomorrow.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1667,Pending
+R-1333,2023-11-19,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$3591,Negotiating
+R-1334,2023-10-02,Translation,I need a Legal contract translation for my retail store.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2594,Negotiating
+R-1335,2023-11-19,SEO,Can you help with Keyword research? We are a startup.,"Professional Keyword research delivery. High quality, quick turnaround.",$702,Accepted
+R-1336,2023-09-13,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4432,Accepted
+R-1337,2023-09-23,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4683,Negotiating
+R-1338,2023-11-02,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2266,Accepted
+R-1339,2023-11-25,IT Security,I need a Malware removal for my tech startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$4830,Negotiating
+R-1340,2023-11-16,SEO,Looking for a long-term partner for Technical audit.,"Professional Technical audit delivery. High quality, quick turnaround.",$185,Accepted
+R-1341,2023-11-25,Translation,I need a Legal contract translation for my bakery.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4351,Negotiating
+R-1342,2023-11-27,SEO,Can you help with Keyword research? We are a startup.,"Professional Keyword research delivery. High quality, quick turnaround.",$4164,Accepted
+R-1343,2023-11-25,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4689,Accepted
+R-1344,2023-11-27,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4695,Negotiating
+R-1345,2023-11-15,Web Dev,I need a Landing page for my law firm.,"Professional Landing page delivery. High quality, quick turnaround.",$4151,Negotiating
+R-1346,2023-10-21,Mobile App,I need a iOS MVP for my law firm.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1357,Pending
+R-1347,2023-11-18,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$3901,Accepted
+R-1348,2023-11-16,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$4553,Negotiating
+R-1349,2023-11-23,Web Dev,I need a Landing page for my SaaS.,"Professional Landing page delivery. High quality, quick turnaround.",$4555,Negotiating
+R-1350,2023-11-06,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3004,Accepted
+R-1351,2023-11-11,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3919,Negotiating
+R-1352,2023-09-20,SEO,Looking for a long-term partner for Keyword research.,"Professional Keyword research delivery. High quality, quick turnaround.",$968,Accepted
+R-1353,2023-11-25,Design,I need a UI/UX for mobile app for my tech startup.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4752,Negotiating
+R-1354,2023-10-24,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$464,Accepted
+R-1355,2023-10-12,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2248,Accepted
+R-1356,2023-10-10,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2752,Pending
+R-1357,2023-09-20,Design,Urgent: UI/UX for mobile app project. Budget is flexible.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$119,Accepted
+R-1358,2023-09-14,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$1937,Accepted
+R-1359,2023-11-06,Mobile App,I need a Android bug fix for my SaaS.,"Professional Android bug fix delivery. High quality, quick turnaround.",$2951,Accepted
+R-1360,2023-09-02,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$2602,Pending
+R-1361,2023-11-20,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$248,Accepted
+R-1362,2023-10-10,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$2887,Pending
+R-1363,2023-09-22,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$1830,Negotiating
+R-1364,2023-10-31,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$417,Accepted
+R-1365,2023-09-06,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3512,Rejected
+R-1366,2023-09-16,Data Science,I need a Data cleaning for my retail store.,"Professional Data cleaning delivery. High quality, quick turnaround.",$428,Accepted
+R-1367,2023-10-04,Data Science,I need a PowerBI dashboard for my law firm.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3380,Negotiating
+R-1368,2023-09-30,IT Security,I need a Malware removal for my tech startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$170,Accepted
+R-1369,2023-10-20,Marketing,I need a Google Ads setup for my bakery.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2993,Rejected
+R-1370,2023-10-11,Translation,Need a quote for Website proofreading by tomorrow.,"Professional Website proofreading delivery. High quality, quick turnaround.",$4310,Negotiating
+R-1371,2023-11-06,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1795,Negotiating
+R-1372,2023-11-01,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4644,Rejected
+R-1373,2023-09-30,SEO,Can you help with Keyword research? We are a startup.,"Professional Keyword research delivery. High quality, quick turnaround.",$858,Negotiating
+R-1374,2023-10-19,Web Dev,Need a quote for WordPress site by tomorrow.,"Professional WordPress site delivery. High quality, quick turnaround.",$4920,Rejected
+R-1375,2023-10-03,Design,Urgent: UI/UX for mobile app project. Budget is flexible.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$3804,Negotiating
+R-1376,2023-11-06,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4465,Rejected
+R-1377,2023-09-13,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2648,Accepted
+R-1378,2023-11-23,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$3386,Accepted
+R-1379,2023-11-04,Marketing,Looking for a long-term partner for Influencer research.,"Professional Influencer research delivery. High quality, quick turnaround.",$1021,Pending
+R-1380,2023-10-15,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1676,Accepted
+R-1381,2023-09-15,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$132,Accepted
+R-1382,2023-11-12,Translation,Need a quote for Website proofreading by tomorrow.,"Professional Website proofreading delivery. High quality, quick turnaround.",$4033,Negotiating
+R-1383,2023-09-05,SEO,I need a Technical audit for my retail store.,"Professional Technical audit delivery. High quality, quick turnaround.",$1834,Negotiating
+R-1384,2023-09-04,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$756,Pending
+R-1385,2023-11-15,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$925,Pending
+R-1386,2023-11-03,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3765,Rejected
+R-1387,2023-10-04,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1441,Accepted
+R-1388,2023-10-25,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$187,Accepted
+R-1389,2023-10-14,SEO,Looking for a long-term partner for Technical audit.,"Professional Technical audit delivery. High quality, quick turnaround.",$2284,Accepted
+R-1390,2023-10-27,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$4795,Accepted
+R-1391,2023-10-18,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$4148,Negotiating
+R-1392,2023-09-05,Data Science,Urgent: PowerBI dashboard project. Budget is flexible.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$465,Accepted
+R-1393,2023-10-13,Web Dev,Looking for a long-term partner for E-commerce store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$387,Accepted
+R-1394,2023-09-08,Web Dev,I need a React dashboard for my law firm.,"Professional React dashboard delivery. High quality, quick turnaround.",$365,Accepted
+R-1395,2023-10-07,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$4344,Negotiating
+R-1396,2023-09-07,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4586,Negotiating
+R-1397,2023-10-04,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1326,Accepted
+R-1398,2023-09-10,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$4571,Rejected
+R-1399,2023-09-17,Design,Can you help with Vector illustrations? We are a startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$4197,Negotiating
+R-1400,2023-09-15,Data Science,I need a Scraper bot for my tech startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2090,Accepted
+R-1401,2023-11-20,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2734,Accepted
+R-1402,2023-11-02,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1248,Rejected
+R-1403,2023-10-31,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4277,Negotiating
+R-1404,2023-10-05,Marketing,Need a quote for SMM strategy by tomorrow.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4715,Negotiating
+R-1405,2023-09-01,Translation,I need a Website proofreading for my retail store.,"Professional Website proofreading delivery. High quality, quick turnaround.",$484,Accepted
+R-1406,2023-11-02,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$504,Accepted
+R-1407,2023-11-20,Marketing,Looking for a long-term partner for Email funnel.,"Professional Email funnel delivery. High quality, quick turnaround.",$327,Pending
+R-1408,2023-11-07,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2509,Rejected
+R-1409,2023-09-28,Translation,Can you help with App localization? We are a startup.,"Professional App localization delivery. High quality, quick turnaround.",$4375,Negotiating
+R-1410,2023-09-29,Data Science,Urgent: Predictive model project. Budget is flexible.,"Professional Predictive model delivery. High quality, quick turnaround.",$4035,Negotiating
+R-1411,2023-11-03,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$605,Accepted
+R-1412,2023-09-11,Design,I need a Brand identity for my tech startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$4183,Accepted
+R-1413,2023-10-17,Translation,Can you help with Website proofreading? We are a startup.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1870,Accepted
+R-1414,2023-10-07,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$228,Accepted
+R-1415,2023-10-05,Data Science,I need a PowerBI dashboard for my retail store.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3663,Accepted
+R-1416,2023-10-20,IT Security,Looking for a long-term partner for Penetration test.,"Professional Penetration test delivery. High quality, quick turnaround.",$469,Pending
+R-1417,2023-10-03,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4047,Negotiating
+R-1418,2023-10-03,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$2410,Accepted
+R-1419,2023-09-22,Marketing,Urgent: Influencer research project. Budget is flexible.,"Professional Influencer research delivery. High quality, quick turnaround.",$496,Pending
+R-1420,2023-11-20,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2196,Negotiating
+R-1421,2023-09-12,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2021,Negotiating
+R-1422,2023-09-05,SEO,I need a Technical audit for my bakery.,"Professional Technical audit delivery. High quality, quick turnaround.",$3130,Rejected
+R-1423,2023-11-29,Translation,I need a Legal contract translation for my bakery.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1984,Negotiating
+R-1424,2023-10-22,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$3309,Negotiating
+R-1425,2023-11-12,Mobile App,Urgent: Android bug fix project. Budget is flexible.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3117,Accepted
+R-1426,2023-10-31,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4085,Rejected
+R-1427,2023-09-18,Marketing,I need a Influencer research for my bakery.,"Professional Influencer research delivery. High quality, quick turnaround.",$1462,Accepted
+R-1428,2023-09-23,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3911,Negotiating
+R-1429,2023-09-04,SEO,Looking for a long-term partner for Keyword research.,"Professional Keyword research delivery. High quality, quick turnaround.",$4046,Accepted
+R-1430,2023-10-17,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4205,Negotiating
+R-1431,2023-10-25,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3291,Accepted
+R-1432,2023-10-08,Data Science,Looking for a long-term partner for Predictive model.,"Professional Predictive model delivery. High quality, quick turnaround.",$2638,Pending
+R-1433,2023-09-16,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$759,Rejected
+R-1434,2023-10-21,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3737,Rejected
+R-1435,2023-11-12,Data Science,Can you help with Data cleaning? We are a startup.,"Professional Data cleaning delivery. High quality, quick turnaround.",$3448,Accepted
+R-1436,2023-10-16,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$2998,Negotiating
+R-1437,2023-09-04,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$2154,Accepted
+R-1438,2023-09-22,Data Science,Need a quote for Data cleaning by tomorrow.,"Professional Data cleaning delivery. High quality, quick turnaround.",$1983,Accepted
+R-1439,2023-11-12,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3249,Negotiating
+R-1440,2023-09-14,Marketing,I need a Google Ads setup for my bakery.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2352,Negotiating
+R-1441,2023-11-20,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2577,Negotiating
+R-1442,2023-10-28,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$3552,Rejected
+R-1443,2023-10-25,Translation,I need a App localization for my tech startup.,"Professional App localization delivery. High quality, quick turnaround.",$4124,Rejected
+R-1444,2023-10-14,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$3042,Negotiating
+R-1445,2023-09-13,Mobile App,Urgent: Android bug fix project. Budget is flexible.,"Professional Android bug fix delivery. High quality, quick turnaround.",$4819,Negotiating
+R-1446,2023-10-29,Web Dev,Looking for a long-term partner for E-commerce store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$473,Accepted
+R-1447,2023-10-04,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$2811,Accepted
+R-1448,2023-09-24,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$1745,Pending
+R-1449,2023-11-17,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2549,Pending
+R-1450,2023-09-08,Design,I need a Brand identity for my tech startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$4528,Negotiating
+R-1451,2023-09-26,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3962,Accepted
+R-1452,2023-11-11,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$1233,Negotiating
+R-1453,2023-11-22,Data Science,I need a Scraper bot for my bakery.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3181,Negotiating
+R-1454,2023-09-11,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$2792,Pending
+R-1455,2023-11-08,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2417,Accepted
+R-1456,2023-11-03,SEO,Can you help with Technical audit? We are a startup.,"Professional Technical audit delivery. High quality, quick turnaround.",$3551,Negotiating
+R-1457,2023-10-05,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1011,Pending
+R-1458,2023-11-14,Data Science,Need a quote for Predictive model by tomorrow.,"Professional Predictive model delivery. High quality, quick turnaround.",$3254,Negotiating
+R-1459,2023-09-19,IT Security,Need a quote for Malware removal by tomorrow.,"Professional Malware removal delivery. High quality, quick turnaround.",$4867,Rejected
+R-1460,2023-10-11,Marketing,Can you help with Influencer research? We are a startup.,"Professional Influencer research delivery. High quality, quick turnaround.",$3020,Negotiating
+R-1461,2023-11-06,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$714,Negotiating
+R-1462,2023-10-19,Data Science,Looking for a long-term partner for Data cleaning.,"Professional Data cleaning delivery. High quality, quick turnaround.",$4107,Negotiating
+R-1463,2023-11-01,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$4824,Rejected
+R-1464,2023-11-14,Mobile App,Urgent: Flutter cross-platform app project. Budget is flexible.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$478,Pending
+R-1465,2023-11-18,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$4914,Negotiating
+R-1466,2023-10-13,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$3104,Rejected
+R-1467,2023-10-22,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$3038,Rejected
+R-1468,2023-10-03,IT Security,I need a Malware removal for my bakery.,"Professional Malware removal delivery. High quality, quick turnaround.",$2988,Accepted
+R-1469,2023-09-18,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$1637,Pending
+R-1470,2023-10-04,Marketing,Can you help with SMM strategy? We are a startup.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4005,Rejected
+R-1471,2023-09-27,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$70,Accepted
+R-1472,2023-11-25,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4808,Negotiating
+R-1473,2023-10-17,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2963,Accepted
+R-1474,2023-10-05,Design,Can you help with Brand identity? We are a startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$3376,Negotiating
+R-1475,2023-11-09,Web Dev,Need a quote for WordPress site by tomorrow.,"Professional WordPress site delivery. High quality, quick turnaround.",$3554,Rejected
+R-1476,2023-11-30,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1014,Negotiating
+R-1477,2023-11-05,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$3789,Accepted
+R-1478,2023-10-28,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$4245,Accepted
+R-1479,2023-09-04,Data Science,Can you help with Data cleaning? We are a startup.,"Professional Data cleaning delivery. High quality, quick turnaround.",$1014,Negotiating
+R-1480,2023-10-31,Translation,Need a quote for Website proofreading by tomorrow.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2763,Rejected
+R-1481,2023-11-23,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2749,Rejected
+R-1482,2023-10-02,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4390,Negotiating
+R-1483,2023-11-01,Data Science,Urgent: Predictive model project. Budget is flexible.,"Professional Predictive model delivery. High quality, quick turnaround.",$663,Accepted
+R-1484,2023-11-16,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3951,Negotiating
+R-1485,2023-10-10,Web Dev,Need a quote for E-commerce store by tomorrow.,"Professional E-commerce store delivery. High quality, quick turnaround.",$3408,Negotiating
+R-1486,2023-09-27,IT Security,I need a SSL configuration for my bakery.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2987,Accepted
+R-1487,2023-11-09,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$1893,Negotiating
+R-1488,2023-11-06,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2195,Rejected
+R-1489,2023-09-29,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$1795,Pending
+R-1490,2023-10-23,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$3861,Negotiating
+R-1491,2023-10-30,Data Science,I need a Scraper bot for my retail store.,"Professional Scraper bot delivery. High quality, quick turnaround.",$429,Accepted
+R-1492,2023-11-26,Translation,Can you help with Website proofreading? We are a startup.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2581,Negotiating
+R-1493,2023-10-24,Mobile App,I need a iOS MVP for my law firm.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2324,Pending
+R-1494,2023-11-19,IT Security,Looking for a long-term partner for Penetration test.,"Professional Penetration test delivery. High quality, quick turnaround.",$598,Rejected
+R-1495,2023-10-31,Translation,Can you help with App localization? We are a startup.,"Professional App localization delivery. High quality, quick turnaround.",$484,Accepted
+R-1496,2023-10-27,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$966,Rejected
+R-1497,2023-11-30,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$3559,Negotiating
+R-1498,2023-10-24,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$4235,Rejected
+R-1499,2023-09-25,SEO,I need a Technical audit for my retail store.,"Professional Technical audit delivery. High quality, quick turnaround.",$2943,Negotiating
+R-1500,2023-11-18,Web Dev,Looking for a long-term partner for WordPress site.,"Professional WordPress site delivery. High quality, quick turnaround.",$3585,Negotiating
+R-1501,2023-10-05,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3419,Accepted
+R-1502,2023-10-06,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$2306,Pending
+R-1503,2023-09-21,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$894,Rejected
+R-1504,2023-09-29,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$1437,Rejected
+R-1505,2023-11-10,Marketing,Looking for a long-term partner for Email funnel.,"Professional Email funnel delivery. High quality, quick turnaround.",$2202,Accepted
+R-1506,2023-09-24,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$98,Accepted
+R-1507,2023-10-17,IT Security,I need a SSL configuration for my tech startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3823,Negotiating
+R-1508,2023-09-02,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$3975,Negotiating
+R-1509,2023-09-12,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$2236,Accepted
+R-1510,2023-11-26,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$385,Accepted
+R-1511,2023-10-15,Web Dev,Urgent: E-commerce store project. Budget is flexible.,"Professional E-commerce store delivery. High quality, quick turnaround.",$4779,Negotiating
+R-1512,2023-09-11,Mobile App,I need a Flutter cross-platform app for my law firm.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4888,Accepted
+R-1513,2023-11-04,Design,Can you help with Brand identity? We are a startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$4813,Rejected
+R-1514,2023-09-16,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$298,Pending
+R-1515,2023-11-19,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$4087,Negotiating
+R-1516,2023-09-14,IT Security,I need a Penetration test for my tech startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$86,Pending
+R-1517,2023-09-13,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1925,Accepted
+R-1518,2023-11-05,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$3936,Negotiating
+R-1519,2023-11-29,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$4939,Negotiating
+R-1520,2023-11-28,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$183,Pending
+R-1521,2023-09-06,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$1443,Negotiating
+R-1522,2023-11-20,Web Dev,Need a quote for React dashboard by tomorrow.,"Professional React dashboard delivery. High quality, quick turnaround.",$369,Pending
+R-1523,2023-11-07,Data Science,Urgent: PowerBI dashboard project. Budget is flexible.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2436,Rejected
+R-1524,2023-10-17,Marketing,I need a SMM strategy for my bakery.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1206,Negotiating
+R-1525,2023-11-12,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3473,Rejected
+R-1526,2023-10-15,Web Dev,Looking for a long-term partner for WordPress site.,"Professional WordPress site delivery. High quality, quick turnaround.",$1434,Accepted
+R-1527,2023-09-24,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1095,Accepted
+R-1528,2023-09-05,Data Science,I need a Predictive model for my bakery.,"Professional Predictive model delivery. High quality, quick turnaround.",$4456,Negotiating
+R-1529,2023-11-11,Web Dev,I need a React dashboard for my law firm.,"Professional React dashboard delivery. High quality, quick turnaround.",$3705,Rejected
+R-1530,2023-09-17,Web Dev,Can you help with React dashboard? We are a startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$4428,Negotiating
+R-1531,2023-09-18,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2488,Accepted
+R-1532,2023-11-16,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$4734,Negotiating
+R-1533,2023-09-01,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$422,Accepted
+R-1534,2023-10-26,Marketing,Need a quote for SMM strategy by tomorrow.,"Professional SMM strategy delivery. High quality, quick turnaround.",$2670,Pending
+R-1535,2023-09-07,Data Science,I need a Predictive model for my bakery.,"Professional Predictive model delivery. High quality, quick turnaround.",$158,Accepted
+R-1536,2023-11-02,Data Science,Looking for a long-term partner for Data cleaning.,"Professional Data cleaning delivery. High quality, quick turnaround.",$2845,Pending
+R-1537,2023-09-24,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3134,Accepted
+R-1538,2023-10-16,Data Science,Can you help with Predictive model? We are a startup.,"Professional Predictive model delivery. High quality, quick turnaround.",$4603,Negotiating
+R-1539,2023-09-10,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$456,Accepted
+R-1540,2023-11-01,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4142,Rejected
+R-1541,2023-11-26,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$795,Rejected
+R-1542,2023-09-02,SEO,Looking for a long-term partner for Technical audit.,"Professional Technical audit delivery. High quality, quick turnaround.",$4734,Negotiating
+R-1543,2023-11-04,Marketing,Need a quote for SMM strategy by tomorrow.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4408,Accepted
+R-1544,2023-10-07,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$1943,Accepted
+R-1545,2023-09-08,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$3499,Negotiating
+R-1546,2023-11-30,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1519,Accepted
+R-1547,2023-10-05,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$4641,Negotiating
+R-1548,2023-10-07,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1338,Accepted
+R-1549,2023-09-26,IT Security,I need a SSL configuration for my law firm.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2646,Accepted
+R-1550,2023-10-07,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$894,Accepted
+R-1551,2023-10-13,Marketing,Urgent: Google Ads setup project. Budget is flexible.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3923,Accepted
+R-1552,2023-10-29,Marketing,I need a Email funnel for my law firm.,"Professional Email funnel delivery. High quality, quick turnaround.",$1974,Pending
+R-1553,2023-11-15,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$521,Pending
+R-1554,2023-10-13,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$663,Pending
+R-1555,2023-11-01,IT Security,Need a quote for Malware removal by tomorrow.,"Professional Malware removal delivery. High quality, quick turnaround.",$557,Accepted
+R-1556,2023-11-08,SEO,I need a Technical audit for my law firm.,"Professional Technical audit delivery. High quality, quick turnaround.",$2082,Accepted
+R-1557,2023-10-13,Web Dev,I need a React dashboard for my tech startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$185,Accepted
+R-1558,2023-09-24,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$4839,Accepted
+R-1559,2023-11-12,Data Science,Need a quote for Data cleaning by tomorrow.,"Professional Data cleaning delivery. High quality, quick turnaround.",$3126,Negotiating
+R-1560,2023-10-22,Mobile App,Can you help with iOS MVP? We are a startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$937,Accepted
+R-1561,2023-11-23,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$2527,Accepted
+R-1562,2023-11-14,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$4669,Rejected
+R-1563,2023-11-17,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$3215,Accepted
+R-1564,2023-09-23,Design,I need a Vector illustrations for my tech startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$4399,Rejected
+R-1565,2023-11-07,SEO,I need a Backlink strategy for my bakery.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3431,Negotiating
+R-1566,2023-10-27,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$718,Rejected
+R-1567,2023-11-17,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3709,Accepted
+R-1568,2023-09-27,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2365,Rejected
+R-1569,2023-11-24,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$496,Pending
+R-1570,2023-09-01,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$3976,Rejected
+R-1571,2023-09-17,Marketing,Looking for a long-term partner for Influencer research.,"Professional Influencer research delivery. High quality, quick turnaround.",$2412,Negotiating
+R-1572,2023-10-01,Design,I need a Brand identity for my retail store.,"Professional Brand identity delivery. High quality, quick turnaround.",$136,Pending
+R-1573,2023-10-02,SEO,I need a Backlink strategy for my retail store.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1873,Rejected
+R-1574,2023-09-27,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$4028,Negotiating
+R-1575,2023-10-18,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$1881,Pending
+R-1576,2023-10-02,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1873,Rejected
+R-1577,2023-09-14,Translation,I need a Website proofreading for my SaaS.,"Professional Website proofreading delivery. High quality, quick turnaround.",$258,Accepted
+R-1578,2023-10-05,Web Dev,I need a WordPress site for my tech startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$1808,Accepted
+R-1579,2023-11-07,IT Security,Looking for a long-term partner for Malware removal.,"Professional Malware removal delivery. High quality, quick turnaround.",$4136,Negotiating
+R-1580,2023-09-25,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$2514,Negotiating
+R-1581,2023-10-16,Web Dev,Can you help with WordPress site? We are a startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$1774,Accepted
+R-1582,2023-10-09,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$901,Rejected
+R-1583,2023-11-08,IT Security,I need a Penetration test for my retail store.,"Professional Penetration test delivery. High quality, quick turnaround.",$1638,Accepted
+R-1584,2023-11-12,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$4273,Negotiating
+R-1585,2023-10-20,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2266,Accepted
+R-1586,2023-10-14,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1327,Accepted
+R-1587,2023-11-13,Mobile App,I need a Android bug fix for my retail store.,"Professional Android bug fix delivery. High quality, quick turnaround.",$896,Accepted
+R-1588,2023-10-15,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$517,Negotiating
+R-1589,2023-09-25,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$394,Accepted
+R-1590,2023-11-03,Mobile App,I need a iOS MVP for my law firm.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3741,Rejected
+R-1591,2023-10-08,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$723,Accepted
+R-1592,2023-10-23,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2201,Negotiating
+R-1593,2023-11-14,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2843,Pending
+R-1594,2023-10-26,Mobile App,I need a iOS MVP for my tech startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1263,Pending
+R-1595,2023-11-01,Data Science,I need a PowerBI dashboard for my law firm.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$4819,Negotiating
+R-1596,2023-10-12,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1084,Rejected
+R-1597,2023-09-18,SEO,I need a Backlink strategy for my bakery.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$108,Accepted
+R-1598,2023-10-10,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$725,Accepted
+R-1599,2023-11-11,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$1169,Rejected
+R-1600,2023-11-23,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$574,Pending
+R-1601,2023-11-05,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$1060,Pending
+R-1602,2023-11-09,Web Dev,Urgent: E-commerce store project. Budget is flexible.,"Professional E-commerce store delivery. High quality, quick turnaround.",$912,Negotiating
+R-1603,2023-09-18,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$193,Pending
+R-1604,2023-10-06,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4076,Negotiating
+R-1605,2023-11-30,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$768,Accepted
+R-1606,2023-09-30,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$4538,Rejected
+R-1607,2023-10-11,Data Science,Can you help with PowerBI dashboard? We are a startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2143,Accepted
+R-1608,2023-09-17,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3246,Accepted
+R-1609,2023-09-25,Mobile App,I need a iOS MVP for my law firm.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1032,Pending
+R-1610,2023-11-28,Translation,I need a Legal contract translation for my retail store.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1956,Accepted
+R-1611,2023-10-13,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$1408,Negotiating
+R-1612,2023-09-13,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$305,Rejected
+R-1613,2023-09-11,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4788,Rejected
+R-1614,2023-11-21,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$4796,Negotiating
+R-1615,2023-11-14,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1831,Rejected
+R-1616,2023-10-30,Design,Urgent: UI/UX for mobile app project. Budget is flexible.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$277,Rejected
+R-1617,2023-09-01,Web Dev,Urgent: React dashboard project. Budget is flexible.,"Professional React dashboard delivery. High quality, quick turnaround.",$250,Accepted
+R-1618,2023-10-13,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$4711,Negotiating
+R-1619,2023-11-20,Web Dev,Urgent: E-commerce store project. Budget is flexible.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2901,Negotiating
+R-1620,2023-09-04,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3715,Negotiating
+R-1621,2023-10-06,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$3374,Rejected
+R-1622,2023-11-25,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$227,Accepted
+R-1623,2023-11-18,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$618,Rejected
+R-1624,2023-11-11,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$3817,Accepted
+R-1625,2023-09-13,Data Science,Urgent: PowerBI dashboard project. Budget is flexible.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$310,Pending
+R-1626,2023-10-01,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$731,Rejected
+R-1627,2023-10-10,Marketing,Need a quote for SMM strategy by tomorrow.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4632,Negotiating
+R-1628,2023-09-01,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2966,Negotiating
+R-1629,2023-10-18,Web Dev,Can you help with WordPress site? We are a startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$3109,Accepted
+R-1630,2023-10-30,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2587,Rejected
+R-1631,2023-09-22,SEO,Looking for a long-term partner for Technical audit.,"Professional Technical audit delivery. High quality, quick turnaround.",$932,Negotiating
+R-1632,2023-10-07,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2137,Pending
+R-1633,2023-10-28,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3843,Negotiating
+R-1634,2023-09-19,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4069,Negotiating
+R-1635,2023-09-22,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1540,Rejected
+R-1636,2023-09-13,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$2884,Pending
+R-1637,2023-10-11,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$594,Accepted
+R-1638,2023-10-08,Translation,Can you help with Website proofreading? We are a startup.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2174,Rejected
+R-1639,2023-11-02,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4454,Negotiating
+R-1640,2023-11-10,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$4422,Accepted
+R-1641,2023-09-10,Web Dev,I need a React dashboard for my retail store.,"Professional React dashboard delivery. High quality, quick turnaround.",$1904,Accepted
+R-1642,2023-11-04,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4310,Negotiating
+R-1643,2023-11-26,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$699,Accepted
+R-1644,2023-11-25,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$4535,Negotiating
+R-1645,2023-10-13,Marketing,I need a Influencer research for my SaaS.,"Professional Influencer research delivery. High quality, quick turnaround.",$1216,Accepted
+R-1646,2023-11-10,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$2606,Pending
+R-1647,2023-09-11,Translation,I need a Legal contract translation for my tech startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3656,Accepted
+R-1648,2023-09-10,Marketing,Can you help with SMM strategy? We are a startup.,"Professional SMM strategy delivery. High quality, quick turnaround.",$3958,Accepted
+R-1649,2023-09-26,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$3497,Negotiating
+R-1650,2023-09-15,Mobile App,Urgent: Flutter cross-platform app project. Budget is flexible.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1981,Pending
+R-1651,2023-09-13,Marketing,Can you help with Influencer research? We are a startup.,"Professional Influencer research delivery. High quality, quick turnaround.",$912,Rejected
+R-1652,2023-10-03,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$2919,Negotiating
+R-1653,2023-10-28,Web Dev,Need a quote for React dashboard by tomorrow.,"Professional React dashboard delivery. High quality, quick turnaround.",$1055,Pending
+R-1654,2023-09-13,Design,I need a Logo redesign for my law firm.,"Professional Logo redesign delivery. High quality, quick turnaround.",$4868,Rejected
+R-1655,2023-09-13,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1097,Pending
+R-1656,2023-11-16,Design,Need a quote for Logo redesign by tomorrow.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2998,Accepted
+R-1657,2023-10-12,Translation,Urgent: App localization project. Budget is flexible.,"Professional App localization delivery. High quality, quick turnaround.",$1650,Negotiating
+R-1658,2023-10-19,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3573,Negotiating
+R-1659,2023-11-30,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$1688,Rejected
+R-1660,2023-10-09,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4914,Negotiating
+R-1661,2023-09-18,Marketing,Can you help with Influencer research? We are a startup.,"Professional Influencer research delivery. High quality, quick turnaround.",$660,Accepted
+R-1662,2023-10-02,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$812,Accepted
+R-1663,2023-11-28,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$789,Accepted
+R-1664,2023-11-24,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$286,Accepted
+R-1665,2023-11-01,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1192,Accepted
+R-1666,2023-09-16,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$1602,Accepted
+R-1667,2023-11-27,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$4444,Negotiating
+R-1668,2023-11-05,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$1032,Pending
+R-1669,2023-09-18,Mobile App,I need a iOS MVP for my tech startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2992,Accepted
+R-1670,2023-09-12,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1940,Accepted
+R-1671,2023-10-20,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1048,Accepted
+R-1672,2023-10-30,SEO,I need a Keyword research for my law firm.,"Professional Keyword research delivery. High quality, quick turnaround.",$2159,Pending
+R-1673,2023-11-26,Design,I need a Vector illustrations for my SaaS.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$494,Pending
+R-1674,2023-11-12,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3285,Accepted
+R-1675,2023-09-27,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$2650,Pending
+R-1676,2023-09-26,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$1244,Rejected
+R-1677,2023-09-18,Data Science,I need a Predictive model for my bakery.,"Professional Predictive model delivery. High quality, quick turnaround.",$4131,Accepted
+R-1678,2023-10-24,Data Science,I need a Scraper bot for my law firm.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2946,Accepted
+R-1679,2023-11-10,Marketing,I need a Google Ads setup for my law firm.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3427,Rejected
+R-1680,2023-11-18,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$2223,Negotiating
+R-1681,2023-09-14,Mobile App,Can you help with iOS MVP? We are a startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2071,Pending
+R-1682,2023-09-09,Translation,I need a Website proofreading for my bakery.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2000,Accepted
+R-1683,2023-09-07,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$2439,Accepted
+R-1684,2023-09-05,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3344,Accepted
+R-1685,2023-11-03,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3193,Accepted
+R-1686,2023-09-07,SEO,Can you help with Technical audit? We are a startup.,"Professional Technical audit delivery. High quality, quick turnaround.",$3340,Negotiating
+R-1687,2023-10-21,Data Science,Urgent: Predictive model project. Budget is flexible.,"Professional Predictive model delivery. High quality, quick turnaround.",$4101,Negotiating
+R-1688,2023-10-01,SEO,Looking for a long-term partner for Keyword research.,"Professional Keyword research delivery. High quality, quick turnaround.",$775,Rejected
+R-1689,2023-09-06,Mobile App,Can you help with iOS MVP? We are a startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$394,Pending
+R-1690,2023-11-12,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$639,Accepted
+R-1691,2023-10-05,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3820,Negotiating
+R-1692,2023-11-01,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$4561,Negotiating
+R-1693,2023-10-27,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3676,Rejected
+R-1694,2023-09-22,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2922,Accepted
+R-1695,2023-10-15,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4922,Rejected
+R-1696,2023-09-18,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2036,Negotiating
+R-1697,2023-09-27,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3239,Accepted
+R-1698,2023-09-02,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$1150,Rejected
+R-1699,2023-09-03,IT Security,Urgent: SSL configuration project. Budget is flexible.,"Professional SSL configuration delivery. High quality, quick turnaround.",$1282,Pending
+R-1700,2023-09-07,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$1063,Pending
+R-1701,2023-09-02,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3626,Negotiating
+R-1702,2023-11-19,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$2696,Rejected
+R-1703,2023-10-23,Web Dev,I need a WordPress site for my bakery.,"Professional WordPress site delivery. High quality, quick turnaround.",$1336,Accepted
+R-1704,2023-10-04,IT Security,Looking for a long-term partner for Malware removal.,"Professional Malware removal delivery. High quality, quick turnaround.",$4829,Rejected
+R-1705,2023-10-22,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1010,Pending
+R-1706,2023-10-15,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2477,Pending
+R-1707,2023-09-04,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1621,Negotiating
+R-1708,2023-11-10,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1866,Negotiating
+R-1709,2023-10-21,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$1208,Pending
+R-1710,2023-10-24,Mobile App,Can you help with Android bug fix? We are a startup.,"Professional Android bug fix delivery. High quality, quick turnaround.",$4128,Rejected
+R-1711,2023-09-19,Data Science,Looking for a long-term partner for Predictive model.,"Professional Predictive model delivery. High quality, quick turnaround.",$4583,Negotiating
+R-1712,2023-11-19,Design,Urgent: Logo redesign project. Budget is flexible.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3502,Negotiating
+R-1713,2023-09-23,Mobile App,Can you help with iOS MVP? We are a startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2173,Accepted
+R-1714,2023-09-10,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2983,Accepted
+R-1715,2023-09-20,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$284,Accepted
+R-1716,2023-10-07,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$2283,Negotiating
+R-1717,2023-11-30,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$3952,Negotiating
+R-1718,2023-11-11,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$2020,Negotiating
+R-1719,2023-09-21,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$2198,Accepted
+R-1720,2023-09-02,Translation,Looking for a long-term partner for Website proofreading.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1753,Negotiating
+R-1721,2023-11-11,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4726,Negotiating
+R-1722,2023-11-12,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$375,Accepted
+R-1723,2023-11-30,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2821,Accepted
+R-1724,2023-11-26,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1724,Accepted
+R-1725,2023-09-26,Design,Need a quote for Vector illustrations by tomorrow.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3510,Rejected
+R-1726,2023-09-26,Mobile App,I need a Flutter cross-platform app for my bakery.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2596,Pending
+R-1727,2023-11-15,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2016,Rejected
+R-1728,2023-11-04,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$3624,Rejected
+R-1729,2023-09-24,Data Science,I need a Scraper bot for my SaaS.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2929,Rejected
+R-1730,2023-09-10,Web Dev,I need a Landing page for my tech startup.,"Professional Landing page delivery. High quality, quick turnaround.",$238,Accepted
+R-1731,2023-09-23,Marketing,Can you help with SMM strategy? We are a startup.,"Professional SMM strategy delivery. High quality, quick turnaround.",$918,Accepted
+R-1732,2023-10-13,Translation,Urgent: App localization project. Budget is flexible.,"Professional App localization delivery. High quality, quick turnaround.",$3022,Negotiating
+R-1733,2023-11-10,Design,Urgent: UI/UX for mobile app project. Budget is flexible.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$3435,Negotiating
+R-1734,2023-10-03,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$784,Accepted
+R-1735,2023-09-09,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$1015,Rejected
+R-1736,2023-09-07,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2854,Accepted
+R-1737,2023-10-17,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4365,Rejected
+R-1738,2023-09-15,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$4277,Rejected
+R-1739,2023-09-28,Mobile App,I need a Android bug fix for my retail store.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3682,Rejected
+R-1740,2023-10-04,Web Dev,I need a Landing page for my law firm.,"Professional Landing page delivery. High quality, quick turnaround.",$3988,Negotiating
+R-1741,2023-10-20,Data Science,Urgent: Scraper bot project. Budget is flexible.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2024,Pending
+R-1742,2023-09-25,Design,I need a UI/UX for mobile app for my tech startup.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$3671,Rejected
+R-1743,2023-09-10,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$561,Negotiating
+R-1744,2023-09-02,IT Security,Need a quote for Malware removal by tomorrow.,"Professional Malware removal delivery. High quality, quick turnaround.",$3878,Negotiating
+R-1745,2023-10-09,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$2050,Pending
+R-1746,2023-11-28,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2642,Negotiating
+R-1747,2023-09-07,Design,Looking for a long-term partner for Vector illustrations.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$2174,Accepted
+R-1748,2023-10-15,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3417,Accepted
+R-1749,2023-10-20,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$2727,Accepted
+R-1750,2023-09-17,Mobile App,Urgent: Flutter cross-platform app project. Budget is flexible.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3267,Rejected
+R-1751,2023-09-24,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2650,Accepted
+R-1752,2023-09-07,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$3088,Accepted
+R-1753,2023-09-12,Web Dev,Need a quote for E-commerce store by tomorrow.,"Professional E-commerce store delivery. High quality, quick turnaround.",$1104,Accepted
+R-1754,2023-09-10,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$3145,Negotiating
+R-1755,2023-09-27,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$753,Negotiating
+R-1756,2023-09-25,SEO,I need a Backlink strategy for my SaaS.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2554,Negotiating
+R-1757,2023-09-17,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3944,Rejected
+R-1758,2023-10-15,Data Science,I need a Scraper bot for my retail store.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2438,Accepted
+R-1759,2023-09-26,Translation,I need a Legal contract translation for my bakery.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4129,Negotiating
+R-1760,2023-10-25,Data Science,Can you help with Predictive model? We are a startup.,"Professional Predictive model delivery. High quality, quick turnaround.",$852,Accepted
+R-1761,2023-10-13,Marketing,Need a quote for Google Ads setup by tomorrow.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$599,Negotiating
+R-1762,2023-10-03,SEO,I need a Backlink strategy for my retail store.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$279,Accepted
+R-1763,2023-09-26,Translation,Can you help with Legal contract translation? We are a startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4533,Rejected
+R-1764,2023-10-13,Design,Can you help with Brand identity? We are a startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$390,Accepted
+R-1765,2023-09-18,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$523,Pending
+R-1766,2023-11-10,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1029,Rejected
+R-1767,2023-11-23,Data Science,I need a Scraper bot for my tech startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1181,Pending
+R-1768,2023-10-29,Mobile App,Need a quote for Android bug fix by tomorrow.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3052,Rejected
+R-1769,2023-11-01,Marketing,Urgent: Google Ads setup project. Budget is flexible.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$177,Accepted
+R-1770,2023-10-23,Web Dev,Can you help with E-commerce store? We are a startup.,"Professional E-commerce store delivery. High quality, quick turnaround.",$470,Pending
+R-1771,2023-10-29,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$2574,Accepted
+R-1772,2023-11-06,Data Science,I need a Data cleaning for my retail store.,"Professional Data cleaning delivery. High quality, quick turnaround.",$956,Rejected
+R-1773,2023-09-09,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$2202,Accepted
+R-1774,2023-10-22,Translation,I need a Legal contract translation for my tech startup.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3821,Accepted
+R-1775,2023-10-20,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$2155,Rejected
+R-1776,2023-10-01,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$3630,Negotiating
+R-1777,2023-10-31,Data Science,Need a quote for Data cleaning by tomorrow.,"Professional Data cleaning delivery. High quality, quick turnaround.",$4103,Negotiating
+R-1778,2023-10-24,Design,Can you help with Brand identity? We are a startup.,"Professional Brand identity delivery. High quality, quick turnaround.",$2083,Accepted
+R-1779,2023-11-11,Web Dev,Can you help with WordPress site? We are a startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$1092,Accepted
+R-1780,2023-09-11,Design,Urgent: UI/UX for mobile app project. Budget is flexible.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$2991,Accepted
+R-1781,2023-10-14,Design,Can you help with Vector illustrations? We are a startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$309,Accepted
+R-1782,2023-09-25,Web Dev,I need a WordPress site for my law firm.,"Professional WordPress site delivery. High quality, quick turnaround.",$1808,Accepted
+R-1783,2023-10-09,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$4281,Rejected
+R-1784,2023-11-04,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$4105,Rejected
+R-1785,2023-11-30,SEO,I need a Backlink strategy for my SaaS.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2723,Accepted
+R-1786,2023-11-13,Data Science,Looking for a long-term partner for Predictive model.,"Professional Predictive model delivery. High quality, quick turnaround.",$1121,Rejected
+R-1787,2023-09-04,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2937,Accepted
+R-1788,2023-11-28,Data Science,Need a quote for Predictive model by tomorrow.,"Professional Predictive model delivery. High quality, quick turnaround.",$1817,Rejected
+R-1789,2023-11-30,SEO,Need a quote for Keyword research by tomorrow.,"Professional Keyword research delivery. High quality, quick turnaround.",$3851,Accepted
+R-1790,2023-10-22,Translation,I need a App localization for my SaaS.,"Professional App localization delivery. High quality, quick turnaround.",$603,Accepted
+R-1791,2023-11-06,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2961,Pending
+R-1792,2023-11-02,SEO,Can you help with Technical audit? We are a startup.,"Professional Technical audit delivery. High quality, quick turnaround.",$4080,Accepted
+R-1793,2023-11-18,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1732,Rejected
+R-1794,2023-09-20,Mobile App,Urgent: iOS MVP project. Budget is flexible.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3749,Negotiating
+R-1795,2023-09-27,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$810,Accepted
+R-1796,2023-10-27,Design,Can you help with Logo redesign? We are a startup.,"Professional Logo redesign delivery. High quality, quick turnaround.",$1968,Rejected
+R-1797,2023-09-01,Data Science,Need a quote for Predictive model by tomorrow.,"Professional Predictive model delivery. High quality, quick turnaround.",$2100,Rejected
+R-1798,2023-09-04,Web Dev,I need a React dashboard for my SaaS.,"Professional React dashboard delivery. High quality, quick turnaround.",$4179,Accepted
+R-1799,2023-10-09,SEO,Can you help with Keyword research? We are a startup.,"Professional Keyword research delivery. High quality, quick turnaround.",$3987,Negotiating
+R-1800,2023-10-06,Data Science,Urgent: Scraper bot project. Budget is flexible.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3403,Accepted
+R-1801,2023-09-12,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$4952,Rejected
+R-1802,2023-09-07,Web Dev,Can you help with React dashboard? We are a startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$436,Accepted
+R-1803,2023-09-20,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3285,Negotiating
+R-1804,2023-10-20,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$372,Accepted
+R-1805,2023-09-26,Web Dev,I need a E-commerce store for my SaaS.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2132,Pending
+R-1806,2023-11-14,Data Science,Looking for a long-term partner for Data cleaning.,"Professional Data cleaning delivery. High quality, quick turnaround.",$2324,Pending
+R-1807,2023-10-16,Marketing,Looking for a long-term partner for Google Ads setup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$1901,Rejected
+R-1808,2023-10-02,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$1951,Rejected
+R-1809,2023-10-01,Design,Urgent: Vector illustrations project. Budget is flexible.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$3720,Accepted
+R-1810,2023-10-17,Design,Can you help with Logo redesign? We are a startup.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2472,Accepted
+R-1811,2023-09-10,Marketing,I need a Influencer research for my SaaS.,"Professional Influencer research delivery. High quality, quick turnaround.",$2908,Accepted
+R-1812,2023-09-06,Design,Urgent: UI/UX for mobile app project. Budget is flexible.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4835,Accepted
+R-1813,2023-10-21,Data Science,Urgent: Predictive model project. Budget is flexible.,"Professional Predictive model delivery. High quality, quick turnaround.",$2522,Accepted
+R-1814,2023-09-16,Marketing,Can you help with SMM strategy? We are a startup.,"Professional SMM strategy delivery. High quality, quick turnaround.",$2758,Pending
+R-1815,2023-11-15,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$3048,Rejected
+R-1816,2023-10-30,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3650,Negotiating
+R-1817,2023-10-12,Web Dev,Can you help with Landing page? We are a startup.,"Professional Landing page delivery. High quality, quick turnaround.",$4038,Negotiating
+R-1818,2023-10-12,Translation,Can you help with App localization? We are a startup.,"Professional App localization delivery. High quality, quick turnaround.",$2635,Accepted
+R-1819,2023-09-30,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$3455,Accepted
+R-1820,2023-11-15,Data Science,Urgent: Scraper bot project. Budget is flexible.,"Professional Scraper bot delivery. High quality, quick turnaround.",$4531,Accepted
+R-1821,2023-11-30,Design,Can you help with Logo redesign? We are a startup.,"Professional Logo redesign delivery. High quality, quick turnaround.",$912,Accepted
+R-1822,2023-10-29,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4241,Negotiating
+R-1823,2023-09-02,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$729,Pending
+R-1824,2023-11-29,Data Science,Urgent: Data cleaning project. Budget is flexible.,"Professional Data cleaning delivery. High quality, quick turnaround.",$3761,Negotiating
+R-1825,2023-10-09,Web Dev,Need a quote for Landing page by tomorrow.,"Professional Landing page delivery. High quality, quick turnaround.",$791,Rejected
+R-1826,2023-10-14,Marketing,Need a quote for Influencer research by tomorrow.,"Professional Influencer research delivery. High quality, quick turnaround.",$3228,Negotiating
+R-1827,2023-11-05,IT Security,Need a quote for Malware removal by tomorrow.,"Professional Malware removal delivery. High quality, quick turnaround.",$1582,Pending
+R-1828,2023-09-03,Translation,I need a App localization for my tech startup.,"Professional App localization delivery. High quality, quick turnaround.",$1732,Accepted
+R-1829,2023-09-14,Data Science,I need a Data cleaning for my bakery.,"Professional Data cleaning delivery. High quality, quick turnaround.",$4812,Rejected
+R-1830,2023-09-09,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$398,Pending
+R-1831,2023-09-06,Translation,Need a quote for Website proofreading by tomorrow.,"Professional Website proofreading delivery. High quality, quick turnaround.",$4494,Negotiating
+R-1832,2023-09-16,IT Security,I need a Penetration test for my tech startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$2763,Accepted
+R-1833,2023-09-03,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$2672,Accepted
+R-1834,2023-09-27,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$314,Accepted
+R-1835,2023-10-12,Marketing,Urgent: Google Ads setup project. Budget is flexible.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2862,Accepted
+R-1836,2023-11-03,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$4217,Accepted
+R-1837,2023-09-19,Translation,I need a Legal contract translation for my retail store.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2729,Accepted
+R-1838,2023-09-01,Web Dev,Can you help with WordPress site? We are a startup.,"Professional WordPress site delivery. High quality, quick turnaround.",$3956,Negotiating
+R-1839,2023-11-03,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$2028,Accepted
+R-1840,2023-09-27,IT Security,Looking for a long-term partner for SSL configuration.,"Professional SSL configuration delivery. High quality, quick turnaround.",$292,Accepted
+R-1841,2023-11-30,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$2389,Accepted
+R-1842,2023-10-11,Translation,I need a App localization for my tech startup.,"Professional App localization delivery. High quality, quick turnaround.",$4951,Rejected
+R-1843,2023-10-16,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$2117,Pending
+R-1844,2023-09-06,Web Dev,I need a React dashboard for my tech startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$4224,Negotiating
+R-1845,2023-10-31,Web Dev,I need a WordPress site for my law firm.,"Professional WordPress site delivery. High quality, quick turnaround.",$4984,Negotiating
+R-1846,2023-11-02,Data Science,Can you help with Predictive model? We are a startup.,"Professional Predictive model delivery. High quality, quick turnaround.",$4840,Rejected
+R-1847,2023-11-08,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$3798,Negotiating
+R-1848,2023-09-18,Data Science,I need a Data cleaning for my SaaS.,"Professional Data cleaning delivery. High quality, quick turnaround.",$476,Rejected
+R-1849,2023-10-11,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1215,Accepted
+R-1850,2023-10-21,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$1224,Accepted
+R-1851,2023-10-15,Web Dev,Can you help with React dashboard? We are a startup.,"Professional React dashboard delivery. High quality, quick turnaround.",$626,Accepted
+R-1852,2023-09-17,SEO,Can you help with Technical audit? We are a startup.,"Professional Technical audit delivery. High quality, quick turnaround.",$4510,Negotiating
+R-1853,2023-10-10,Web Dev,I need a Landing page for my retail store.,"Professional Landing page delivery. High quality, quick turnaround.",$3834,Rejected
+R-1854,2023-10-12,IT Security,Urgent: SSL configuration project. Budget is flexible.,"Professional SSL configuration delivery. High quality, quick turnaround.",$4248,Negotiating
+R-1855,2023-10-27,Data Science,Can you help with PowerBI dashboard? We are a startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$1577,Pending
+R-1856,2023-11-11,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2365,Rejected
+R-1857,2023-10-24,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$125,Accepted
+R-1858,2023-09-01,Data Science,Need a quote for Scraper bot by tomorrow.,"Professional Scraper bot delivery. High quality, quick turnaround.",$131,Accepted
+R-1859,2023-10-08,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$2112,Pending
+R-1860,2023-10-17,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2701,Accepted
+R-1861,2023-10-16,SEO,I need a Backlink strategy for my bakery.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$4349,Negotiating
+R-1862,2023-11-11,Marketing,Urgent: SMM strategy project. Budget is flexible.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4101,Rejected
+R-1863,2023-11-15,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$4333,Negotiating
+R-1864,2023-09-21,Translation,Urgent: App localization project. Budget is flexible.,"Professional App localization delivery. High quality, quick turnaround.",$2172,Negotiating
+R-1865,2023-11-15,Data Science,Urgent: Predictive model project. Budget is flexible.,"Professional Predictive model delivery. High quality, quick turnaround.",$2269,Pending
+R-1866,2023-11-29,Marketing,I need a SMM strategy for my law firm.,"Professional SMM strategy delivery. High quality, quick turnaround.",$2009,Pending
+R-1867,2023-11-22,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$2713,Rejected
+R-1868,2023-09-19,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$1492,Rejected
+R-1869,2023-10-04,IT Security,Can you help with Malware removal? We are a startup.,"Professional Malware removal delivery. High quality, quick turnaround.",$2331,Pending
+R-1870,2023-10-10,Web Dev,I need a E-commerce store for my bakery.,"Professional E-commerce store delivery. High quality, quick turnaround.",$221,Pending
+R-1871,2023-10-16,Design,I need a UI/UX for mobile app for my law firm.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$1732,Negotiating
+R-1872,2023-09-19,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$2068,Accepted
+R-1873,2023-10-30,Marketing,Need a quote for Email funnel by tomorrow.,"Professional Email funnel delivery. High quality, quick turnaround.",$698,Pending
+R-1874,2023-09-12,Design,Looking for a long-term partner for Brand identity.,"Professional Brand identity delivery. High quality, quick turnaround.",$4112,Accepted
+R-1875,2023-09-05,Marketing,Urgent: Email funnel project. Budget is flexible.,"Professional Email funnel delivery. High quality, quick turnaround.",$1344,Accepted
+R-1876,2023-11-03,Translation,Looking for a long-term partner for Legal contract translation.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1727,Negotiating
+R-1877,2023-11-02,SEO,Urgent: Keyword research project. Budget is flexible.,"Professional Keyword research delivery. High quality, quick turnaround.",$1541,Accepted
+R-1878,2023-09-19,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$1788,Accepted
+R-1879,2023-09-30,Design,I need a Logo redesign for my SaaS.,"Professional Logo redesign delivery. High quality, quick turnaround.",$1853,Accepted
+R-1880,2023-09-15,Web Dev,I need a Landing page for my tech startup.,"Professional Landing page delivery. High quality, quick turnaround.",$2837,Accepted
+R-1881,2023-11-03,Mobile App,Can you help with Flutter cross-platform app? We are a startup.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3504,Negotiating
+R-1882,2023-09-13,Mobile App,I need a Flutter cross-platform app for my bakery.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3617,Rejected
+R-1883,2023-11-02,Web Dev,Need a quote for React dashboard by tomorrow.,"Professional React dashboard delivery. High quality, quick turnaround.",$2116,Rejected
+R-1884,2023-10-04,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3013,Negotiating
+R-1885,2023-11-25,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$4957,Negotiating
+R-1886,2023-10-25,SEO,Looking for a long-term partner for Backlink strategy.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2095,Negotiating
+R-1887,2023-09-19,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$3608,Rejected
+R-1888,2023-11-09,IT Security,Urgent: SSL configuration project. Budget is flexible.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3970,Negotiating
+R-1889,2023-09-06,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2855,Accepted
+R-1890,2023-10-14,Marketing,I need a SMM strategy for my SaaS.,"Professional SMM strategy delivery. High quality, quick turnaround.",$4180,Negotiating
+R-1891,2023-09-19,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$2591,Negotiating
+R-1892,2023-09-20,IT Security,I need a Penetration test for my tech startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$1768,Accepted
+R-1893,2023-09-12,Marketing,Urgent: Google Ads setup project. Budget is flexible.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3199,Negotiating
+R-1894,2023-09-07,Web Dev,Urgent: React dashboard project. Budget is flexible.,"Professional React dashboard delivery. High quality, quick turnaround.",$4381,Negotiating
+R-1895,2023-10-15,Marketing,Urgent: Google Ads setup project. Budget is flexible.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3563,Negotiating
+R-1896,2023-09-27,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$2947,Accepted
+R-1897,2023-09-23,Design,I need a Vector illustrations for my tech startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$848,Rejected
+R-1898,2023-09-17,IT Security,Looking for a long-term partner for Penetration test.,"Professional Penetration test delivery. High quality, quick turnaround.",$1265,Accepted
+R-1899,2023-09-29,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3256,Negotiating
+R-1900,2023-11-22,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1720,Negotiating
+R-1901,2023-10-11,SEO,I need a Technical audit for my SaaS.,"Professional Technical audit delivery. High quality, quick turnaround.",$3147,Accepted
+R-1902,2023-09-24,SEO,I need a Technical audit for my tech startup.,"Professional Technical audit delivery. High quality, quick turnaround.",$2457,Accepted
+R-1903,2023-11-02,Design,Looking for a long-term partner for Logo redesign.,"Professional Logo redesign delivery. High quality, quick turnaround.",$582,Pending
+R-1904,2023-11-02,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$284,Rejected
+R-1905,2023-11-27,Marketing,Looking for a long-term partner for Email funnel.,"Professional Email funnel delivery. High quality, quick turnaround.",$2038,Accepted
+R-1906,2023-09-30,Data Science,Looking for a long-term partner for Scraper bot.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2413,Pending
+R-1907,2023-10-19,SEO,Looking for a long-term partner for Keyword research.,"Professional Keyword research delivery. High quality, quick turnaround.",$1593,Rejected
+R-1908,2023-11-30,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2045,Negotiating
+R-1909,2023-10-27,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1812,Pending
+R-1910,2023-11-26,Design,I need a Vector illustrations for my retail store.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$305,Accepted
+R-1911,2023-10-28,IT Security,Need a quote for Malware removal by tomorrow.,"Professional Malware removal delivery. High quality, quick turnaround.",$1805,Accepted
+R-1912,2023-11-03,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$3930,Rejected
+R-1913,2023-10-15,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$3575,Accepted
+R-1914,2023-10-18,Web Dev,Looking for a long-term partner for Landing page.,"Professional Landing page delivery. High quality, quick turnaround.",$3893,Negotiating
+R-1915,2023-10-15,Design,I need a Brand identity for my law firm.,"Professional Brand identity delivery. High quality, quick turnaround.",$2900,Accepted
+R-1916,2023-09-17,Design,Can you help with Vector illustrations? We are a startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$949,Accepted
+R-1917,2023-09-23,Web Dev,Need a quote for E-commerce store by tomorrow.,"Professional E-commerce store delivery. High quality, quick turnaround.",$2311,Accepted
+R-1918,2023-11-14,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$2373,Negotiating
+R-1919,2023-11-01,Mobile App,I need a iOS MVP for my tech startup.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3956,Rejected
+R-1920,2023-09-29,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$486,Accepted
+R-1921,2023-11-14,Data Science,Urgent: Data cleaning project. Budget is flexible.,"Professional Data cleaning delivery. High quality, quick turnaround.",$2202,Negotiating
+R-1922,2023-10-11,IT Security,Can you help with Penetration test? We are a startup.,"Professional Penetration test delivery. High quality, quick turnaround.",$912,Rejected
+R-1923,2023-09-02,Design,Can you help with UI/UX for mobile app? We are a startup.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$3851,Negotiating
+R-1924,2023-10-12,Translation,Urgent: Legal contract translation project. Budget is flexible.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$3074,Negotiating
+R-1925,2023-10-22,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$758,Accepted
+R-1926,2023-09-30,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$3746,Accepted
+R-1927,2023-11-17,Translation,Can you help with App localization? We are a startup.,"Professional App localization delivery. High quality, quick turnaround.",$3213,Negotiating
+R-1928,2023-09-26,Translation,Need a quote for Legal contract translation by tomorrow.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$1384,Pending
+R-1929,2023-09-06,IT Security,I need a Penetration test for my retail store.,"Professional Penetration test delivery. High quality, quick turnaround.",$4370,Negotiating
+R-1930,2023-11-14,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$193,Pending
+R-1931,2023-10-01,Design,I need a Vector illustrations for my SaaS.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$4176,Negotiating
+R-1932,2023-10-22,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$661,Accepted
+R-1933,2023-09-15,Marketing,Looking for a long-term partner for SMM strategy.,"Professional SMM strategy delivery. High quality, quick turnaround.",$822,Rejected
+R-1934,2023-09-22,Translation,I need a Legal contract translation for my bakery.,"Professional Legal contract translation delivery. High quality, quick turnaround.",$390,Accepted
+R-1935,2023-10-12,Data Science,Need a quote for Scraper bot by tomorrow.,"Professional Scraper bot delivery. High quality, quick turnaround.",$4402,Negotiating
+R-1936,2023-11-08,Design,Need a quote for Brand identity by tomorrow.,"Professional Brand identity delivery. High quality, quick turnaround.",$971,Pending
+R-1937,2023-11-01,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$2256,Accepted
+R-1938,2023-11-20,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$622,Accepted
+R-1939,2023-10-15,Translation,Urgent: Website proofreading project. Budget is flexible.,"Professional Website proofreading delivery. High quality, quick turnaround.",$116,Accepted
+R-1940,2023-11-25,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$1627,Negotiating
+R-1941,2023-10-30,Web Dev,Need a quote for WordPress site by tomorrow.,"Professional WordPress site delivery. High quality, quick turnaround.",$4424,Negotiating
+R-1942,2023-10-07,Data Science,Can you help with Scraper bot? We are a startup.,"Professional Scraper bot delivery. High quality, quick turnaround.",$3789,Rejected
+R-1943,2023-09-14,Data Science,I need a Scraper bot for my SaaS.,"Professional Scraper bot delivery. High quality, quick turnaround.",$2626,Pending
+R-1944,2023-09-07,Design,Need a quote for UI/UX for mobile app by tomorrow.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$574,Rejected
+R-1945,2023-10-13,IT Security,I need a Malware removal for my bakery.,"Professional Malware removal delivery. High quality, quick turnaround.",$110,Pending
+R-1946,2023-10-21,Web Dev,Urgent: WordPress site project. Budget is flexible.,"Professional WordPress site delivery. High quality, quick turnaround.",$1079,Rejected
+R-1947,2023-10-18,Marketing,I need a Google Ads setup for my tech startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$391,Pending
+R-1948,2023-11-12,Design,Urgent: Brand identity project. Budget is flexible.,"Professional Brand identity delivery. High quality, quick turnaround.",$2128,Negotiating
+R-1949,2023-09-04,IT Security,Need a quote for Penetration test by tomorrow.,"Professional Penetration test delivery. High quality, quick turnaround.",$3134,Negotiating
+R-1950,2023-11-18,Design,Can you help with Logo redesign? We are a startup.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3384,Negotiating
+R-1951,2023-10-15,IT Security,I need a Penetration test for my retail store.,"Professional Penetration test delivery. High quality, quick turnaround.",$3030,Negotiating
+R-1952,2023-10-24,Translation,Looking for a long-term partner for App localization.,"Professional App localization delivery. High quality, quick turnaround.",$2389,Rejected
+R-1953,2023-09-12,Web Dev,Looking for a long-term partner for WordPress site.,"Professional WordPress site delivery. High quality, quick turnaround.",$2165,Pending
+R-1954,2023-11-27,Data Science,Looking for a long-term partner for Predictive model.,"Professional Predictive model delivery. High quality, quick turnaround.",$3712,Negotiating
+R-1955,2023-10-16,Web Dev,Looking for a long-term partner for E-commerce store.,"Professional E-commerce store delivery. High quality, quick turnaround.",$4797,Accepted
+R-1956,2023-11-04,SEO,Urgent: Technical audit project. Budget is flexible.,"Professional Technical audit delivery. High quality, quick turnaround.",$3978,Negotiating
+R-1957,2023-11-27,Translation,Can you help with Website proofreading? We are a startup.,"Professional Website proofreading delivery. High quality, quick turnaround.",$1383,Accepted
+R-1958,2023-11-29,Marketing,I need a Email funnel for my bakery.,"Professional Email funnel delivery. High quality, quick turnaround.",$168,Pending
+R-1959,2023-10-14,Marketing,Can you help with Google Ads setup? We are a startup.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$2769,Accepted
+R-1960,2023-09-20,Data Science,I need a Scraper bot for my law firm.,"Professional Scraper bot delivery. High quality, quick turnaround.",$4337,Rejected
+R-1961,2023-11-23,Data Science,I need a PowerBI dashboard for my tech startup.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$710,Rejected
+R-1962,2023-10-07,SEO,I need a Keyword research for my retail store.,"Professional Keyword research delivery. High quality, quick turnaround.",$4075,Negotiating
+R-1963,2023-09-15,Mobile App,Urgent: Android bug fix project. Budget is flexible.,"Professional Android bug fix delivery. High quality, quick turnaround.",$529,Pending
+R-1964,2023-11-24,SEO,Can you help with Backlink strategy? We are a startup.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1878,Accepted
+R-1965,2023-10-01,Design,Can you help with UI/UX for mobile app? We are a startup.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$4341,Negotiating
+R-1966,2023-09-02,Mobile App,Need a quote for Flutter cross-platform app by tomorrow.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$4114,Rejected
+R-1967,2023-09-05,Translation,I need a App localization for my law firm.,"Professional App localization delivery. High quality, quick turnaround.",$2999,Pending
+R-1968,2023-10-11,Data Science,Need a quote for Predictive model by tomorrow.,"Professional Predictive model delivery. High quality, quick turnaround.",$602,Accepted
+R-1969,2023-11-05,Mobile App,Looking for a long-term partner for iOS MVP.,"Professional iOS MVP delivery. High quality, quick turnaround.",$1959,Pending
+R-1970,2023-10-24,IT Security,Urgent: Penetration test project. Budget is flexible.,"Professional Penetration test delivery. High quality, quick turnaround.",$644,Negotiating
+R-1971,2023-10-04,Mobile App,Need a quote for iOS MVP by tomorrow.,"Professional iOS MVP delivery. High quality, quick turnaround.",$3396,Accepted
+R-1972,2023-11-06,Marketing,Can you help with Email funnel? We are a startup.,"Professional Email funnel delivery. High quality, quick turnaround.",$2541,Rejected
+R-1973,2023-10-22,Marketing,Urgent: Google Ads setup project. Budget is flexible.,"Professional Google Ads setup delivery. High quality, quick turnaround.",$4329,Accepted
+R-1974,2023-10-27,Data Science,I need a Predictive model for my SaaS.,"Professional Predictive model delivery. High quality, quick turnaround.",$3300,Accepted
+R-1975,2023-09-28,Marketing,Need a quote for SMM strategy by tomorrow.,"Professional SMM strategy delivery. High quality, quick turnaround.",$901,Rejected
+R-1976,2023-11-15,Design,Looking for a long-term partner for UI/UX for mobile app.,"Professional UI/UX for mobile app delivery. High quality, quick turnaround.",$2850,Accepted
+R-1977,2023-10-18,IT Security,I need a Malware removal for my bakery.,"Professional Malware removal delivery. High quality, quick turnaround.",$2870,Pending
+R-1978,2023-10-26,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2824,Rejected
+R-1979,2023-09-28,Mobile App,I need a Android bug fix for my bakery.,"Professional Android bug fix delivery. High quality, quick turnaround.",$2529,Rejected
+R-1980,2023-10-27,IT Security,I need a SSL configuration for my law firm.,"Professional SSL configuration delivery. High quality, quick turnaround.",$3590,Negotiating
+R-1981,2023-09-06,SEO,Need a quote for Backlink strategy by tomorrow.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$1901,Rejected
+R-1982,2023-11-17,IT Security,Urgent: Malware removal project. Budget is flexible.,"Professional Malware removal delivery. High quality, quick turnaround.",$4334,Rejected
+R-1983,2023-09-08,Translation,Need a quote for App localization by tomorrow.,"Professional App localization delivery. High quality, quick turnaround.",$237,Pending
+R-1984,2023-10-03,Mobile App,Looking for a long-term partner for Android bug fix.,"Professional Android bug fix delivery. High quality, quick turnaround.",$3911,Negotiating
+R-1985,2023-11-15,SEO,Urgent: Backlink strategy project. Budget is flexible.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$2309,Accepted
+R-1986,2023-09-21,SEO,I need a Backlink strategy for my law firm.,"Professional Backlink strategy delivery. High quality, quick turnaround.",$3541,Rejected
+R-1987,2023-11-15,Translation,I need a App localization for my SaaS.,"Professional App localization delivery. High quality, quick turnaround.",$1547,Pending
+R-1988,2023-10-17,Mobile App,I need a Android bug fix for my law firm.,"Professional Android bug fix delivery. High quality, quick turnaround.",$1806,Negotiating
+R-1989,2023-11-22,Data Science,Looking for a long-term partner for PowerBI dashboard.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$937,Rejected
+R-1990,2023-11-08,Web Dev,Looking for a long-term partner for React dashboard.,"Professional React dashboard delivery. High quality, quick turnaround.",$2145,Pending
+R-1991,2023-09-17,SEO,Need a quote for Technical audit by tomorrow.,"Professional Technical audit delivery. High quality, quick turnaround.",$1490,Accepted
+R-1992,2023-09-09,IT Security,Can you help with SSL configuration? We are a startup.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2224,Rejected
+R-1993,2023-09-28,Mobile App,Looking for a long-term partner for Flutter cross-platform app.,"Professional Flutter cross-platform app delivery. High quality, quick turnaround.",$3514,Negotiating
+R-1994,2023-09-10,Data Science,Urgent: PowerBI dashboard project. Budget is flexible.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$2293,Pending
+R-1995,2023-10-27,Design,Can you help with Vector illustrations? We are a startup.,"Professional Vector illustrations delivery. High quality, quick turnaround.",$2961,Accepted
+R-1996,2023-09-28,IT Security,Need a quote for SSL configuration by tomorrow.,"Professional SSL configuration delivery. High quality, quick turnaround.",$2596,Pending
+R-1997,2023-11-19,Data Science,Need a quote for PowerBI dashboard by tomorrow.,"Professional PowerBI dashboard delivery. High quality, quick turnaround.",$3966,Rejected
+R-1998,2023-09-28,Design,Can you help with Logo redesign? We are a startup.,"Professional Logo redesign delivery. High quality, quick turnaround.",$3617,Rejected
+R-1999,2023-09-27,Web Dev,Need a quote for WordPress site by tomorrow.,"Professional WordPress site delivery. High quality, quick turnaround.",$548,Pending
