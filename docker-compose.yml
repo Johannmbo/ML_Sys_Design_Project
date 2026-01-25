@@ -1,16 +1,33 @@
 version: '3.8'
 
-services: 
-    inference_api:
-      build: .
-      ports: 
-        - "3000:3000"
-      environment:
+services:
+  # --- BACKEND SERVICE (FastAPI) ---
+  backend:
+    build: .
+    container_name: inference_backend
+    ports:
+      - "3000:3000"
+    environment:
       - LLM_API_KEY=${LLM_API_KEY}
-      - LLM_BASE_URL=${LLM_BASE_URL}
-      - MODEL_NAME=${MODEL_NAME}
-      volumes:
-      - ./models:/app/models
-      restart: unless-stopped
-    redis:
-      image: "redis:alpine"
+      - LLM_BASE_URL=https://api.mistral.ai/v1
+      - LLM_MODEL=mistral-tiny
+    # Runs the API
+    command: uvicorn Inference.main:app --host 0.0.0.0 --port 3000
+    volumes:
+      - .:/app
+
+  # --- FRONTEND SERVICE (Streamlit) ---
+  frontend:
+    build: .
+    container_name: inference_frontend
+    ports:
+      - "8501:8501"
+    environment:
+      # Streamlit uses the internal Docker network name 'backend' to reach the API
+      - BACKEND_URL=http://backend:3000
+    # Runs the UI
+    command: streamlit run Inference/app.py --server.port=8501 --server.address=0.0.0.0
+    volumes:
+      - .:/app
+    depends_on:
+      - backend
