@@ -1,7 +1,7 @@
 [project]
 name = "ML_SYS_DESIGN_PROJECT"
 version = "0.1.0"
-description = "Описание проекта"
+description = "project description"
 readme = "README.md"
 requires-python = ">=3.12"
 
@@ -10,8 +10,7 @@ line-length = 88
 
 [tool.ruff.lint]
 select = ["E", "F", "I"]  # E - pycodestyle, F - pyflakes, I - import sort
-ignore = ["E501"]          # Игнорируем длинные строки (или можно убрать)
-
+ignore = ["E501"]        
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
