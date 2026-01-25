@@ -1067,4 +1067,3 @@ LogLoss (Binary Cross-Entropy)
 
    * Success Rate : 99.69%.
 
-- [ссылька на демо]('C:\Users\JOHANN MOULEO\ML_Sys_Design_Project\DEMO-screencast.webm')
