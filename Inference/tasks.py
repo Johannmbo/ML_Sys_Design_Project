@@ -16,11 +16,11 @@ async def run_full_pipeline(request_id: str, data: dict, db_mock: dict):
     
         db_mock[request_id]["status"] = "Generating"
         
-        # 2. Extract relevant info from data
+        # Extract relevant info from data
         client_req = data.get("ClientRequest", "No request text provided.")
         rules = data.get("BusinessRules", "Standard 15% margin.")
         
-        # 3. Call the LLM
+        # Call the LLM
         system_prompt = "You are an expert sales engineer. Create a detailed commercial proposal in Markdown."
         user_prompt = f"Client Requirements: {client_req}\nBusiness Rules: {rules}"
         
@@ -30,7 +30,7 @@ async def run_full_pipeline(request_id: str, data: dict, db_mock: dict):
         if not generated_text or len(generated_text) < 10:
             generated_text = "Error: The LLM returned an empty or too short response."
 
-        # 4. Mock final offer structure
+        # Mock final offer structure
         final_payload = {
             "OfferId": str(uuid.uuid4()),
             "TotalAmount": 1500.0,

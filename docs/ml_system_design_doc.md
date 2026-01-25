@@ -912,7 +912,7 @@ LogLoss (Binary Cross-Entropy)
    * Fallback-механизмы (шаблонное КП / ручная обработка);
 
    * Регламент остановки пилота при выявлении критических ошибок.
->>>>>>> origin/hw_3
+
 =======
 ## hw_4 
 
@@ -1066,4 +1066,5 @@ LogLoss (Binary Cross-Entropy)
    * P95 Latency : 100 ms (POST) / 25 ms (GET).
 
    * Success Rate : 99.69%.
->>>>>>> origin/hw_4
+
+- [ссылька на демо]('C:\Users\JOHANN MOULEO\ML_Sys_Design_Project\DEMO-screencast.webm')
