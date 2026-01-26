@@ -10,7 +10,7 @@ services:
     environment:
       - LLM_API_KEY=${LLM_API_KEY}
       - LLM_BASE_URL=https://api.mistral.ai/v1
-      - LLM_MODEL=mistral-tiny
+      - LLM_MODEL=mistral-small-latest
     # Runs the API
     command: uvicorn Inference.main:app --host 0.0.0.0 --port 3000
     volumes:

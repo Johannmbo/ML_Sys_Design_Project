@@ -13,7 +13,7 @@ async def ask_llm(system_prompt: str, user_prompt: str):
     """
     try:
         
-        llm_model = os.getenv("LLM_MODEL", "mistral-7b-instruct-v0.1") 
+        llm_model = os.getenv("LLM_MODEL", "mistral-small-latest") 
 
         response = await client.chat.completions.create(
             model=llm_model,
